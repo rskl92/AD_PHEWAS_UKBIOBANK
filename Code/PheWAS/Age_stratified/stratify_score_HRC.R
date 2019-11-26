@@ -1,8 +1,8 @@
 module load languages/R-3.3.1-ATLAS
 R
 ##set directory 
-setwd("/newhome/rk17685/UKB_AD_PHEWAS/ukb_ad_phewas/Data/SNPs_AD_in_UKB")
-linker<-read.csv("/newhome/rk17685/UKB_AD_PHEWAS/ukb_ad_phewas/Data/Phenotype_UKB/data.7341.csv")
+setwd("/pathname/ukb_ad_phewas/Data/SNPs_AD_in_UKB")
+linker<-read.csv("/pathname/ukb_ad_phewas/Data/Phenotype_UKB/data.7341.csv")
 grs_apoe = data.frame()
 temp_apoe = read.delim("UKBB_AD_APOE_PRS_IGpgcADSP_HRCpanel.sscore",sep="	")
 temp_apoe <- temp_apoe[,c("IID","SCORE1_AVG")]
@@ -26,7 +26,7 @@ write.csv(grs_noapoe,"UKBB_AD_NOAPOE_PRS_IGpgcADSP_HRCpanel.csv",row.names=FALSE
 prs_apoe <- read.csv("UKBB_AD_APOE_PRS_IGpgcADSP_HRCpanel.csv")
 
 ##read in confounder file and extract age and sex
-confounder<- read.csv("/panfs/panasas01/sscm/rk17685/PHEWAS_BIOBANK_UPDATED/Data/Phenotypic/data.21753-phesant_header-confounders.csv")
+confounder<- read.csv("/pathname/ukb_ad_phewas/Phenotype_UKB/data.21753-phesant_header-confounders.csv")
 
 ##merge
 datamerge <- merge(prs_apoe,confounder,by="eid")

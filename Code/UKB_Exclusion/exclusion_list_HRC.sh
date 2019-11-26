@@ -1,4 +1,4 @@
-export Exclusion_Dir="${HOME}/UKB_AD_PHEWAS/ukb_ad_phewas/Data/Exclusion_UKB/HRC"
+export Exclusion_Dir="${HOME}/ukb_ad_phewas/Data/Exclusion_UKB/HRC"
 cat ${Exclusion_Dir}/data.combined_recommended.txt ${Exclusion_Dir}/data.non_white_british.txt > ${Exclusion_Dir}/biobank_exclusion_list.txt
 cat ${Exclusion_Dir}/data.minimal_relateds.txt >> ${Exclusion_Dir}/biobank_exclusion_list.txt
 cat ${Exclusion_Dir}/data.highly_relateds.txt >> ${Exclusion_Dir}/biobank_exclusion_list.txt

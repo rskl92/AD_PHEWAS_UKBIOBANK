@@ -7,12 +7,13 @@ module add languages/R-3.3.1-ATLAS
 
 date
 
-PHESANT="/panfs/panasas01/sscm/rk17685/PHESANT-master"
+export Results="${HOME}/ukb_ad_phewas/Results"
+PHESANT="${HOME}/PHESANT-master"
 codeDir="${PHESANT}/WAS/"
 varListDir="${PHESANT}/variable-info/"
 
-outcomeFile="/panfs/panasas01/sscm/rk17685/PHEWAS_BIOBANK_UPDATED/Data/Phenotypic/data.21753-phesant_header.csv"
-expFile="/newhome/rk17685/UKB_AD_PHEWAS/ukb_ad_phewas/Data/SNPs_AD_in_UKB/UKBB_AD_APOE_PRS_IGpgcADSP_HRCpanel.csv"
+outcomeFile="${PROJECT_DATA}/Phenotype_UKB/data.21753-phesant_header.csv"
+expFile="${PROJECT_DATA}/SNPs_AD_in_UKB/UKBB_AD_APOE_PRS_IGpgcADSP_HRCpanel.csv"
 varListFile="${varListDir}outcome-info.tsv"
 dcFile="${varListDir}data-coding-ordinal-info.txt"
 
@@ -22,9 +23,9 @@ np=200
 
 
 # confounders
-confFile="/panfs/panasas01/sscm/rk17685/PHEWAS_BIOBANK_UPDATED/Data/Phenotypic/data.21753-phesant_header-confounders.csv"
+confFile="${PROJECT_DATA}/Phenotype_UKB/data.21753-phesant_header-confounders.csv"
 
-resDir="/newhome/rk17685/UKB_AD_PHEWAS/ukb_ad_phewas/Results/UKB_APOE_IgPgcAdsp_HRCpanel/"
+resDir="${Results}/UKB_APOE_IgPgcAdsp_HRCpanel/"
 
 # run PHESANT
 cd $codeDir
