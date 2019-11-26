@@ -13,7 +13,7 @@ PHESANT="${HOME}/PHESANT-master"
 codeDir="${PHESANT}/WAS/"
 varListDir="${PHESANT}/variable-info/"
 
-outcomeFile="{PROJECT_DATA}/Phenotype_UKB/data.21753-phesant_header.csv"
+outcomeFile="${PROJECT_DATA}/Phenotype_UKB/data.21753-phesant_header.csv"
 expFile="${PROJECT_DATA}/SNPs_AD_in_UKB/UKB_PRS_T1APOE_IgPGCadsp_HRCpanel.csv"
 varListFile="${varListDir}outcome-info.tsv"
 dcFile="${varListDir}data-coding-ordinal-info.txt"
