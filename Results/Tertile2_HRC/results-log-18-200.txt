@@ -1,0 +1,24 @@
+3144_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3147_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3148_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3159_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(8172) || Inc(>=10): 1(1148) || CAT-SINGLE-BINARY || sample 8172/1148(9320) || SUCCESS results-logistic-binary 
+3160_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3393_0|| CAT-SINGLE || Inc(>=10): 0(64515) || Inc(>=10): 1(2785) || CAT-SINGLE-BINARY || sample 64515/2785(67300) || SUCCESS results-logistic-binary 
+3404_0|| CAT-SINGLE || Inc(>=10): 0(7296) || Inc(>=10): 1(17819) || CAT-SINGLE-BINARY || sample 7296/17819(25115) || SUCCESS results-logistic-binary 
+3414_0|| CAT-SINGLE || Inc(>=10): 1(9739) || Inc(>=10): 0(2733) || CAT-SINGLE-BINARY || sample 2733/9739(12472) || SUCCESS results-logistic-binary 
+3426_0|| CAT-SINGLE || Inc(>=10): 3(684) || Inc(>=10): 1(5424) || Inc(>=10): 4(1379) || Inc(>=10): 2(2567) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+3436_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+3446_0|| CAT-SINGLE || Inc(>=10): 2(1859) || Inc(>=10): 1(5466) || Inc(>=10): 3(675) || CAT-SINGLE-UNORDERED || reference: 1=5466 || SUCCESS results-notordered-logistic 
+3456_0|| INTEGER || reassignments: -1=NA|-3=NA|-10=NA || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 1336, 3061, 2861 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+3466_0|| CAT-SINGLE || Inc(>=10): 4(716) || Inc(>=10): 2(2807) || Inc(>=10): 3(2051) || Inc(>=10): 1(957) || Inc(>=10): 5(752) || ordered || CAT-ORD || order: 1|2|3|4|5 || num categories: 5 || SUCCESS results-ordered-logistic
+3476_0|| CAT-SINGLE || Inc(>=10): 3(2605) || Inc(>=10): 4(2746) || Inc(>=10): 2(1531) || Inc(>=10): 1(419) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+3486_0|| CAT-SINGLE || Inc(>=10): 2(2979) || Inc(>=10): 1(3720) || Inc(>=10): 0(1273) || ordered || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+3496_0|| CAT-SINGLE || Inc(>=10): 1(2443) || Inc(>=10): 2(2979) || Inc(>=10): 3(2074) || Inc(>=10): 4(385) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+3506_0|| CAT-SINGLE || Inc(>=10): 3(3599) || Inc(>=10): 2(3296) || Inc(>=10): 1(1104) || ordered || CAT-ORD || order: 1|2|3 || num categories: 3 || SUCCESS results-ordered-logistic
+3526_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+3536_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+3546_0|| INTEGER || reassignments: -1=NA|-3=NA|-11=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+3571_0|| CAT-SINGLE || Inc(>=10): 1(19024) || Inc(>=10): 0(8527) || CAT-SINGLE-BINARY || sample 8527/19024(27551) || SUCCESS results-logistic-binary 
+3581_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+3591_0|| CAT-SINGLE || Inc(>=10): 0(48674) || Inc(>=10): 1(4404) || CAT-SINGLE-BINARY || sample 48674/4404(53078) || SUCCESS results-logistic-binary 
+3606_0|| CAT-SINGLE || Inc(>=10): 0(13900) || Inc(>=10): 1(2956) || CAT-SINGLE-BINARY || sample 13900/2956(16856) || SUCCESS results-logistic-binary 

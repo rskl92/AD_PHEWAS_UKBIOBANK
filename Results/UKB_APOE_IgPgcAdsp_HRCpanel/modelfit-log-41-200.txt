@@ -1,0 +1,172 @@
+[1] "--------------"
+[1] "5162"
+[1] "--------------"
+[1] "5163"
+[1] "--------------"
+[1] "5181"
+[1] "--------------"
+[1] "5182"
+# weights:  45 (28 variable)
+initial  value 80878.738079 
+iter  10 value 888.058842
+iter  20 value 778.787011
+iter  30 value 744.125330
+iter  40 value 731.479636
+final  value 730.378596 
+converged
+# weights:  42 (26 variable)
+initial  value 80878.738079 
+iter  10 value 877.163213
+iter  20 value 769.836615
+iter  30 value 740.413000
+iter  40 value 731.004404
+final  value 730.990420 
+converged
+[1] "--------------"
+[1] "5183"
+[1] "--------------"
+[1] "5185"
+# weights:  45 (28 variable)
+initial  value 80712.847624 
+iter  10 value 2774.433166
+iter  20 value 2415.317028
+iter  30 value 1903.038357
+iter  40 value 1722.058473
+iter  50 value 1720.272959
+final  value 1720.272931 
+converged
+# weights:  42 (26 variable)
+initial  value 80712.847624 
+iter  10 value 2774.363770
+iter  20 value 2411.845115
+iter  30 value 1975.285045
+iter  40 value 1720.637964
+iter  50 value 1720.381727
+final  value 1720.381598 
+converged
+[1] "--------------"
+[1] "5187"
+# weights:  45 (28 variable)
+initial  value 80702.960113 
+iter  10 value 3260.964002
+iter  20 value 2088.334247
+iter  30 value 1991.810948
+iter  40 value 1956.229163
+final  value 1956.191242 
+converged
+# weights:  42 (26 variable)
+initial  value 80702.960113 
+iter  10 value 3245.453240
+iter  20 value 2114.622673
+iter  30 value 2004.563377
+iter  40 value 1957.160995
+final  value 1957.154031 
+converged
+[1] "--------------"
+[1] "5189"
+# weights:  45 (28 variable)
+initial  value 79873.507835 
+iter  10 value 37692.271493
+iter  20 value 36472.302603
+iter  30 value 33053.309474
+iter  40 value 19239.386233
+iter  50 value 9436.053410
+iter  60 value 7341.074079
+iter  70 value 7233.024272
+iter  80 value 7188.951230
+iter  90 value 7145.792219
+final  value 7145.791138 
+converged
+# weights:  42 (26 variable)
+initial  value 79873.507835 
+iter  10 value 37692.884495
+iter  20 value 36451.950417
+iter  30 value 31942.579784
+iter  40 value 16805.731686
+iter  50 value 9049.536015
+iter  60 value 7373.339283
+iter  70 value 7293.535586
+iter  80 value 7192.007979
+final  value 7147.360977 
+converged
+[1] "--------------"
+[1] "5191"
+# weights:  45 (28 variable)
+initial  value 79862.521712 
+iter  10 value 48321.995239
+iter  20 value 47504.326816
+iter  30 value 41189.794796
+iter  40 value 22836.854722
+iter  50 value 12392.541499
+iter  60 value 8346.151376
+iter  70 value 8252.749230
+iter  80 value 8207.121230
+iter  90 value 8168.231615
+final  value 8168.230242 
+converged
+# weights:  42 (26 variable)
+initial  value 79862.521712 
+iter  10 value 48324.671630
+iter  20 value 47447.126337
+iter  30 value 36283.418545
+iter  40 value 18988.939570
+iter  50 value 9948.041734
+iter  60 value 8304.631287
+iter  70 value 8274.157727
+iter  80 value 8189.312143
+final  value 8169.555213 
+converged
+[1] "--------------"
+[1] "5194"
+# weights:  45 (28 variable)
+initial  value 79873.507835 
+iter  10 value 19889.376680
+iter  20 value 19526.079544
+iter  30 value 17877.744624
+iter  40 value 12825.724183
+iter  50 value 12674.165777
+final  value 12674.013405 
+converged
+# weights:  42 (26 variable)
+initial  value 79873.507835 
+iter  10 value 19898.852255
+iter  20 value 19417.366185
+iter  30 value 15724.674817
+iter  40 value 12684.518302
+iter  50 value 12676.233413
+final  value 12676.230687 
+converged
+[1] "--------------"
+[1] "5196"
+# weights:  45 (28 variable)
+initial  value 79862.521712 
+iter  10 value 20367.999696
+iter  20 value 20087.059820
+iter  30 value 18028.116131
+iter  40 value 13095.038303
+iter  50 value 12984.231998
+final  value 12984.163192 
+converged
+# weights:  42 (26 variable)
+initial  value 79862.521712 
+iter  10 value 20379.321826
+iter  20 value 20045.488161
+iter  30 value 16178.567511
+iter  40 value 13041.218697
+iter  50 value 12985.717072
+final  value 12985.639453 
+converged
+[1] "--------------"
+[1] "5201"
+[1] "--------------"
+[1] "5208"
+[1] "--------------"
+[1] "5221"
+[1] "--------------"
+[1] "5237"
+[1] "--------------"
+[1] "5251"
+[1] "--------------"
+[1] "5254"
+[1] "--------------"
+[1] "5255"

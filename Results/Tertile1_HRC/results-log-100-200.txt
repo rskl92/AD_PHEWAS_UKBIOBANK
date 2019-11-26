@@ -1,0 +1,1 @@
+20200_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 9446, 9275, 9651 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

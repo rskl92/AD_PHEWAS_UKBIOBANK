@@ -1,0 +1,17 @@
+name,countValue
+catMul.binary,7
+catSin.onevalue,1
+cont.main,3
+excluded.catSin,3
+excluded.cont,3
+excluded.int,2
+int.catord,1
+ordCat,1
+start.catMul,7
+start.catSin,1
+start.cont,3
+start.exposure.cont,2
+start.int,1
+success.continuous,3
+success.exposure.continuous,2
+success.ordCat,1

@@ -1,0 +1,102 @@
+[1] "--------------"
+[1] "20015"
+[1] "--------------"
+[1] "20016"
+[1] "--------------"
+[1] "20018"
+[1] "--------------"
+[1] "20019"
+[1] "--------------"
+[1] "20021"
+[1] "--------------"
+[1] "20022"
+[1] "--------------"
+[1] "20023"
+[1] "--------------"
+[1] "20024"
+# weights:  495 (448 variable)
+initial  value 2045.456923 
+iter  10 value 1959.353929
+iter  20 value 1884.187674
+iter  30 value 1844.292655
+iter  40 value 1827.023209
+iter  50 value 1788.136476
+iter  60 value 1764.325291
+iter  70 value 1749.111691
+iter  80 value 1735.835709
+iter  90 value 1726.736943
+iter 100 value 1719.236101
+iter 110 value 1712.078279
+iter 120 value 1709.136752
+iter 130 value 1706.784932
+iter 140 value 1703.026806
+iter 150 value 1699.989684
+iter 160 value 1697.618454
+iter 170 value 1696.058336
+iter 180 value 1694.722147
+iter 190 value 1692.544059
+iter 200 value 1691.164817
+iter 210 value 1690.818091
+iter 220 value 1690.752256
+iter 230 value 1690.686637
+iter 240 value 1690.556483
+iter 250 value 1690.456611
+iter 260 value 1690.434591
+iter 270 value 1690.424967
+iter 280 value 1690.403467
+iter 290 value 1690.377499
+iter 300 value 1690.369291
+iter 310 value 1690.361260
+iter 320 value 1690.340105
+iter 330 value 1690.296293
+iter 340 value 1690.279883
+iter 350 value 1690.270031
+iter 360 value 1690.233924
+iter 370 value 1690.193634
+iter 380 value 1690.186877
+iter 390 value 1690.161003
+final  value 1690.152604 
+converged
+# weights:  462 (416 variable)
+initial  value 2045.456923 
+iter  10 value 1959.792412
+iter  20 value 1887.168291
+iter  30 value 1855.751076
+iter  40 value 1837.800251
+iter  50 value 1796.628411
+iter  60 value 1769.548966
+iter  70 value 1753.246170
+iter  80 value 1743.844167
+iter  90 value 1736.002258
+iter 100 value 1728.804300
+iter 110 value 1723.465421
+iter 120 value 1720.885458
+iter 130 value 1718.766461
+iter 140 value 1714.984576
+iter 150 value 1712.035946
+iter 160 value 1709.588265
+iter 170 value 1708.027083
+iter 180 value 1706.566655
+iter 190 value 1703.901354
+iter 200 value 1703.181752
+iter 210 value 1703.087107
+iter 220 value 1703.030065
+iter 230 value 1702.857394
+iter 240 value 1702.762374
+iter 250 value 1702.743020
+iter 260 value 1702.731399
+iter 270 value 1702.702405
+iter 280 value 1702.684685
+iter 290 value 1702.677762
+iter 300 value 1702.658174
+iter 310 value 1702.610759
+iter 320 value 1702.597835
+iter 330 value 1702.556336
+iter 340 value 1702.519172
+iter 350 value 1702.510877
+iter 360 value 1702.480099
+iter 370 value 1702.473765
+iter 380 value 1702.472061
+iter 390 value 1702.469694
+final  value 1702.469552 
+converged

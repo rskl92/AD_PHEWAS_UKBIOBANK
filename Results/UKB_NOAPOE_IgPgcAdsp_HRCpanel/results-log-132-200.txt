@@ -1,0 +1,67 @@
+25079_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25080_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25081_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25082_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25083_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25084_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25085_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25086_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25087_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25088_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25089_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25090_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25091_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25092_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25093_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25094_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25095_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25096_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25097_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25098_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25099_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25100_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25101_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25102_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25103_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25104_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3005, 3061, 3039 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25105_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3016, 3054, 3035 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25106_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3028, 3042, 3035 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25107_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2975, 3093, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25108_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3069, 2985, 3051 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25109_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25110_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3036, 3032, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25111_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3003, 3060, 3042 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25112_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2991, 3089, 3025 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25113_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3053, 3011, 3041 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25114_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3002, 3066, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25115_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3014, 3051, 3040 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25116_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2988, 3077, 3040 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25117_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2978, 3089, 3038 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25118_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3027, 3040, 3038 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25119_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2999, 3070, 3036 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25120_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2965, 3108, 3032 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25121_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2985, 3080, 3040 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25122_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3002, 3053, 3050 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25123_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2978, 3071, 3056 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25124_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2966, 3102, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25125_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2994, 3075, 3036 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25126_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3018, 3047, 3040 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25127_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2968, 3100, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25128_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2993, 3065, 3047 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25129_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2972, 3091, 3042 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25130_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2983, 3087, 3035 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25131_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2983, 3083, 3039 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25132_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2988, 3079, 3038 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25133_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2988, 3086, 3031 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25134_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3022, 3040, 3043 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25135_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2982, 3075, 3048 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25136_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2985, 3085, 3035 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25137_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2958, 3111, 3036 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25138_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3008, 3057, 3040 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25139_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2978, 3095, 3032 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25140_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2986, 3084, 3035 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25141_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2936, 3132, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25142_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3000, 3068, 3037 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25143_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2988, 3087, 3030 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25144_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3062, 2996, 3047 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25145_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2990, 3071, 3044 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

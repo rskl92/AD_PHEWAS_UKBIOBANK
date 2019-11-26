@@ -1,0 +1,6 @@
+5100_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5101_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5102_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5103_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5104_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5105_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear

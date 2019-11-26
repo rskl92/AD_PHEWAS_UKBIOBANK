@@ -1,0 +1,6 @@
+name,countValue
+catMul.10,46
+catMul.binary,210
+catMul.over10,164
+start.catMul,5
+success.binary,164

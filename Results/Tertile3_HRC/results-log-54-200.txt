@@ -1,0 +1,20 @@
+5986_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5992_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 5130, 13533, 1 || Combine last two bins and treat as binary || sample 5130/13534(18664) || SUCCESS results-logistic-binary 
+5993_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 6002, 7026, 5636 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6014_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(17671) || Inc(>=10): 3(1171) || Inc(>=10): 2(193) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6015_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(17773) || Inc(>=10): 2(411) || Inc(>=10): 3(851) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6016_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(18206) || Inc(>=10): 3(614) || Inc(>=10): 2(215) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6017_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 3(17492) || Inc(>=10): 1(945) || Inc(>=10): 2(598) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6019_0|| CAT-SINGLE || Inc(>=10): 1(15860) || Inc(>=10): 2(2808) || Inc(>=10): 6(160) || Inc(>=10): 7(99) || CAT-SINGLE-UNORDERED || reference: 1=15860 || SUCCESS results-notordered-logistic 
+6020_0|| CAT-SINGLE || Inc(>=10): 1(16912) || Inc(>=10): 33(1358) || Inc(>=10): 32(81) || Inc(>=10): 31(260) || Inc(>=10): 34(57) || CAT-SINGLE-UNORDERED || reference: 1=16912 || SUCCESS results-notordered-logistic 
+6024_0|| Excluded cat-single: YES-ACE || 
+6032_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+6033_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+6034_0|| CAT-SINGLE || Inc(>=10): 0(16304) || Inc(>=10): 1(2360) || CAT-SINGLE-BINARY || sample 16304/2360(18664) || SUCCESS results-logistic-binary 
+6038_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+6039_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 5405, 9058, 4201 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6070_0|| CAT-SINGLE || Inc(>=10): 1(16107) || Inc(>=10): 6(1899) || Inc(>=10): 7(827) || CAT-SINGLE-UNORDERED || reference: 1=16107 || SUCCESS results-notordered-logistic 
+6072_0|| CAT-SINGLE || Inc(>=10): 1(15993) || Inc(>=10): 6(1957) || Inc(>=10): 7(879) || CAT-SINGLE-UNORDERED || reference: 1=15993 || SUCCESS results-notordered-logistic 
+6074_0|| Excluded cat-single: YES-ACE || 
+6075_0|| Excluded cat-single: YES-ACE || 
+6119_0|| CAT-SINGLE || Inc(>=10): 3(584) || Inc(>=10): 2(84) || Inc(>=10): 1(105) || CAT-SINGLE-UNORDERED || reference: 3=584 || SUCCESS results-notordered-logistic 

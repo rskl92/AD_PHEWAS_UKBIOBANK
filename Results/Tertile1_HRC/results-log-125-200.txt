@@ -1,0 +1,2 @@
+22654_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 157, 243, 259 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+22655_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 45, 383, 231 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

@@ -1,0 +1,4 @@
+5087_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5088_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5089_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5090_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 

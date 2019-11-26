@@ -1,0 +1,38 @@
+22009_0|| Excluded continuous: YES-GENETIC || 
+22010_0|| Excluded cat-single: YES-GENETIC || 
+22011_0|| Excluded integer: YES-GENETIC || 
+22012_0|| Excluded continuous: YES-GENETIC || 
+22013_0|| Excluded continuous: YES-GENETIC || 
+22018_0|| Excluded cat-single: YES-GENETIC || 
+22019_0|| Excluded cat-single: YES-GENETIC || 
+22021_0|| Excluded cat-single: YES-GENETIC || 
+22027_0|| Excluded cat-single: YES-GENETIC || 
+22051_0|| Excluded cat-single: YES-GENETIC || 
+22052_0|| Excluded cat-single: YES-GENETIC || 
+22126_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(66502) || Inc(>=10): 1(19428) || CAT-SINGLE-BINARY || sample 66502/19428(85930) || SUCCESS results-logistic-binary 
+22127_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(75097) || Inc(>=10): 1(10833) || CAT-SINGLE-BINARY || sample 75097/10833(85930) || SUCCESS results-logistic-binary 
+22128_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85679) || Inc(>=10): 1(251) || CAT-SINGLE-BINARY || sample 85679/251(85930) || SUCCESS results-logistic-binary 
+22129_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(84986) || Inc(>=10): 1(944) || CAT-SINGLE-BINARY || sample 84986/944(85930) || SUCCESS results-logistic-binary 
+22130_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(84698) || Inc(>=10): 1(1232) || CAT-SINGLE-BINARY || sample 84698/1232(85930) || SUCCESS results-logistic-binary 
+22131_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85928) || Removed 1: 2<10 examples || SKIP (only one value) || 
+22132_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85894) || Inc(>=10): 1(36) || CAT-SINGLE-BINARY || sample 85894/36(85930) || SUCCESS results-logistic-binary 
+22133_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85575) || Inc(>=10): 1(355) || CAT-SINGLE-BINARY || sample 85575/355(85930) || SUCCESS results-logistic-binary 
+22134_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85181) || Inc(>=10): 1(749) || CAT-SINGLE-BINARY || sample 85181/749(85930) || SUCCESS results-logistic-binary 
+22135_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85845) || Inc(>=10): 1(85) || CAT-SINGLE-BINARY || sample 85845/85(85930) || SUCCESS results-logistic-binary 
+22136_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85895) || Inc(>=10): 1(35) || CAT-SINGLE-BINARY || sample 85895/35(85930) || SUCCESS results-logistic-binary 
+22137_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85492) || Inc(>=10): 1(438) || CAT-SINGLE-BINARY || sample 85492/438(85930) || SUCCESS results-logistic-binary 
+22138_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85926) || Removed 1: 4<10 examples || SKIP (only one value) || 
+22139_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85868) || Inc(>=10): 1(62) || CAT-SINGLE-BINARY || sample 85868/62(85930) || SUCCESS results-logistic-binary 
+22140_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85826) || Inc(>=10): 1(104) || CAT-SINGLE-BINARY || sample 85826/104(85930) || SUCCESS results-logistic-binary 
+22141_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(85924) || Removed 1: 6<10 examples || SKIP (only one value) || 
+22146_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22147_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22148_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (251) || 
+22149_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22150_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22151_0|| INTEGER || Removed 0: 1<10 examples || Removed 50: 1<10 examples || SKIP (number of levels: 0)
+22152_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (36) || 
+22153_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (355) || 
+22154_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22155_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (85) || 
+22156_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (35) || 

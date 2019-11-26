@@ -1,0 +1,2 @@
+110001_1|| CAT-SINGLE || Inc(>=10): 0(39084) || Inc(>=10): 2(19119) || CAT-SINGLE-BINARY || sample 39084/19119(58203) || SUCCESS results-logistic-binary 
+110005_0|| CAT-SINGLE || Inc(>=10): 2(20992) || Inc(>=10): 0(27318) || CAT-SINGLE-BINARY || sample 27318/20992(48310) || SUCCESS results-logistic-binary 

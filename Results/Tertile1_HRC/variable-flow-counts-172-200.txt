@@ -1,0 +1,12 @@
+name,countValue
+catMul.10,113
+catMul.binary,479
+catMul.over10,366
+cont.ordcattry,1
+cont.ordcattry.ordcat,1
+int.continuous,1
+ordCat,1
+start.catMul,5
+start.int,1
+success.binary,366
+success.ordCat,1

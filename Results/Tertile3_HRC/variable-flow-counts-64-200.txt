@@ -1,0 +1,6 @@
+name,countValue
+cont.main,2
+cont.main.500,2
+int.continuous,2
+int.onevalue,1
+start.int,3

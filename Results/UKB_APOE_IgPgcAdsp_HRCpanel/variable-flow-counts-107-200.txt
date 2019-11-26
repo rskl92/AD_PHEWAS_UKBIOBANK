@@ -1,0 +1,14 @@
+name,countValue
+catSin.case3,13
+catSin.onevalue,3
+cont.main,10
+cont.main.500,5
+excluded.catSin,7
+excluded.cont,3
+excluded.int,1
+int.continuous,10
+int.onevalue,1
+start.catSin,16
+start.int,11
+success.binary,13
+success.continuous,5

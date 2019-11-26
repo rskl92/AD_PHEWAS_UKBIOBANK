@@ -1,0 +1,36 @@
+10886_0|| CAT-SINGLE || reorder 1|0|2 || Inc(>=10): 2(155) || Inc(>=10): 3(60) || Inc(>=10): 1(19) || ordered || CAT-ORD || order: 1|0|2 || CATORD-SKIP-500 (234) || 
+10895_0|| CAT-SINGLE || Inc(>=10): 0(42) || Inc(>=10): 1(36) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (78) || 
+10912_0|| CAT-SINGLE || Inc(>=10): 2(175) || Inc(>=10): 1(111) || Inc(>=10): 3(29) || Removed 4: 3<10 examples || ordered || CAT-ORD || order: 1|2|3 || CATORD-SKIP-500 (315) || 
+10953_0|| CAT-SINGLE || Inc(>=10): 1(108) || Inc(>=10): 2(116) || Inc(>=10): 5(19) || Inc(>=10): 3(38) || Inc(>=10): 4(26) || ordered || CAT-ORD || order: 1|2|3|4|5 || CATORD-SKIP-500 (307) || 
+10962_0|| CAT-SINGLE || Inc(>=10): 2(116) || Inc(>=10): 3(58) || Inc(>=10): 5(11) || Inc(>=10): 4(32) || Inc(>=10): 1(54) || ordered || CAT-ORD || order: 1|2|3|4|5 || CATORD-SKIP-500 (271) || 
+10971_0|| CAT-SINGLE || Inc(>=10): 1(32) || Inc(>=10): 2(70) || Inc(>=10): 3(49) || Inc(>=10): 4(21) || Removed 5: 4<10 examples || ordered || CAT-ORD || order: 1|2|3|4 || CATORD-SKIP-500 (172) || 
+12139_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(15592) || Inc(>=10): 0(268) || CAT-SINGLE-BINARY || sample 268/15592(15860) || SUCCESS results-logistic-binary 
+12140_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(15595) || Inc(>=10): 0(264) || CAT-SINGLE-BINARY || sample 264/15595(15859) || SUCCESS results-logistic-binary 
+12141_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(15900) || Removed 0: 9<10 examples || SKIP (only one value) || 
+12143_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12144_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12148_2|| INTEGER || Inc(>=10): 0(12714) || Inc(>=10): 1(2934) || Inc(>=10): 2(228) || Inc(>=10): 3(36) || 3-20 values || CAT-ORD || order: 0|1|2|3 || num categories: 4 || SUCCESS results-ordered-logistic
+12187_2|| CAT-SINGLE || Inc(>=10): 0(14824) || Inc(>=10): 7(569) || Inc(>=10): 6(178) || CAT-SINGLE-UNORDERED || reference: 0=14824 || SUCCESS results-notordered-logistic 
+12188_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(13238) || Inc(>=10): 0(1555) || CAT-SINGLE-BINARY || sample 1555/13238(14793) || SUCCESS results-logistic-binary 
+12223_2|| CAT-SINGLE || Inc(>=10): 0(15051) || Inc(>=10): 7(333) || Inc(>=10): 6(198) || CAT-SINGLE-UNORDERED || reference: 0=15051 || SUCCESS results-notordered-logistic 
+12224_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(12659) || Inc(>=10): 0(2392) || CAT-SINGLE-BINARY || sample 2392/12659(15051) || SUCCESS results-logistic-binary 
+12253_2|| CAT-SINGLE || Inc(>=10): 0(15315) || Inc(>=10): 6(390) || Inc(>=10): 7(170) || CAT-SINGLE-UNORDERED || reference: 0=15315 || SUCCESS results-notordered-logistic 
+12254_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(15264) || Inc(>=10): 0(51) || CAT-SINGLE-BINARY || sample 51/15264(15315) || SUCCESS results-logistic-binary 
+12291_2|| CAT-SINGLE || Inc(>=10): 0(15626) || Inc(>=10): 7(240) || Removed 6: 1<10 examples || CAT-SINGLE-BINARY || sample 15626/240(15866) || SUCCESS results-logistic-binary 
+12292_2|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(15592) || Inc(>=10): 0(34) || CAT-SINGLE-BINARY || sample 34/15592(15626) || SUCCESS results-logistic-binary 
+12323_2|| CAT-SINGLE || Inc(>=10): 0(13862) || Inc(>=10): 6(1235) || Inc(>=10): 7(625) || CAT-SINGLE-UNORDERED || reference: 0=13862 || SUCCESS results-notordered-logistic 
+12336_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12338_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12340_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12651_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12654_2|| INTEGER || Inc(>=10): 5(7584) || Inc(>=10): 6(4298) || Inc(>=10): 7(1427) || Inc(>=10): 8(365) || Inc(>=10): 9(111) || Removed 12: 3<10 examples || Removed 2: 8<10 examples || Inc(>=10): 11(10) || Inc(>=10): 10(32) || Removed 4: 3<10 examples || Removed 14: 1<10 examples || Removed 3: 2<10 examples || Removed 13: 1<10 examples || 3-20 values || CAT-ORD || order: 5|6|7|8|9|10|11 || num categories: 7 || SUCCESS results-ordered-logistic
+12673_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12674_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12675_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12676_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12677_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12678_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+12679_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+12680_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+12681_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+12682_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

@@ -1,0 +1,138 @@
+[1] "--------------"
+[1] "12139"
+[1] "--------------"
+[1] "12140"
+[1] "--------------"
+[1] "12143"
+[1] "--------------"
+[1] "12144"
+[1] "--------------"
+[1] "12148"
+[1] "--------------"
+[1] "12187"
+# weights:  45 (28 variable)
+initial  value 6544.433404 
+iter  10 value 2981.540425
+iter  20 value 2878.542315
+iter  30 value 2250.720253
+iter  40 value 1425.350698
+iter  50 value 1301.189823
+iter  60 value 1300.631577
+final  value 1300.631451 
+converged
+# weights:  42 (26 variable)
+initial  value 6544.433404 
+iter  10 value 2981.548305
+iter  20 value 2833.705521
+iter  30 value 2259.774391
+iter  40 value 1328.238004
+iter  50 value 1300.736857
+iter  60 value 1300.644438
+iter  70 value 1300.643827
+final  value 1300.642594 
+converged
+[1] "--------------"
+[1] "12188"
+[1] "--------------"
+[1] "12223"
+# weights:  45 (28 variable)
+initial  value 6538.940342 
+iter  10 value 2680.282450
+iter  20 value 2513.154157
+iter  30 value 1916.523759
+iter  40 value 1152.115042
+iter  50 value 966.170674
+iter  60 value 963.419556
+iter  70 value 963.416344
+iter  80 value 963.414049
+final  value 963.412799 
+converged
+# weights:  42 (26 variable)
+initial  value 6538.940342 
+iter  10 value 2722.622927
+iter  20 value 2547.785149
+iter  30 value 1756.750331
+iter  40 value 1136.730827
+iter  50 value 964.698848
+iter  60 value 964.107292
+iter  70 value 964.100191
+iter  80 value 964.089554
+final  value 964.087401 
+converged
+[1] "--------------"
+[1] "12224"
+[1] "--------------"
+[1] "12253"
+# weights:  45 (28 variable)
+initial  value 6656.491857 
+iter  10 value 2667.957989
+iter  20 value 2529.431057
+iter  30 value 1923.666563
+iter  40 value 1178.959248
+iter  50 value 1088.570743
+iter  60 value 1087.336529
+final  value 1087.334930 
+converged
+# weights:  42 (26 variable)
+initial  value 6656.491857 
+iter  10 value 2669.288756
+iter  20 value 2530.188595
+iter  30 value 1811.434281
+iter  40 value 1128.438276
+iter  50 value 1088.282037
+iter  60 value 1087.901311
+iter  70 value 1087.899688
+final  value 1087.899604 
+converged
+[1] "--------------"
+[1] "12254"
+[1] "--------------"
+[1] "12291"
+[1] "--------------"
+[1] "12292"
+[1] "--------------"
+[1] "12323"
+# weights:  45 (28 variable)
+initial  value 6600.462630 
+iter  10 value 2672.163266
+iter  20 value 2665.153713
+iter  30 value 2654.196591
+final  value 2653.886724 
+converged
+# weights:  42 (26 variable)
+initial  value 6600.462630 
+iter  10 value 2673.046258
+iter  20 value 2662.091403
+iter  30 value 2654.886591
+final  value 2654.884426 
+converged
+[1] "--------------"
+[1] "12336"
+[1] "--------------"
+[1] "12338"
+[1] "--------------"
+[1] "12340"
+[1] "--------------"
+[1] "12651"
+[1] "--------------"
+[1] "12654"
+[1] "--------------"
+[1] "12673"
+[1] "--------------"
+[1] "12674"
+[1] "--------------"
+[1] "12675"
+[1] "--------------"
+[1] "12676"
+[1] "--------------"
+[1] "12677"
+[1] "--------------"
+[1] "12678"
+[1] "--------------"
+[1] "12679"
+[1] "--------------"
+[1] "12680"
+[1] "--------------"
+[1] "12681"
+[1] "--------------"
+[1] "12682"

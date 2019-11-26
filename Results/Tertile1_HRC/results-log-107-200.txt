@@ -1,0 +1,38 @@
+22009_0|| Excluded continuous: YES-GENETIC || 
+22010_0|| Excluded cat-single: YES-GENETIC || 
+22011_0|| Excluded integer: YES-GENETIC || 
+22012_0|| Excluded continuous: YES-GENETIC || 
+22013_0|| Excluded continuous: YES-GENETIC || 
+22018_0|| Excluded cat-single: YES-GENETIC || 
+22019_0|| Excluded cat-single: YES-GENETIC || 
+22021_0|| Excluded cat-single: YES-GENETIC || 
+22027_0|| Excluded cat-single: YES-GENETIC || 
+22051_0|| Excluded cat-single: YES-GENETIC || 
+22052_0|| Excluded cat-single: YES-GENETIC || 
+22126_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(7914) || Inc(>=10): 0(21603) || CAT-SINGLE-BINARY || sample 21603/7914(29517) || SUCCESS results-logistic-binary 
+22127_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(25118) || Inc(>=10): 1(4399) || CAT-SINGLE-BINARY || sample 25118/4399(29517) || SUCCESS results-logistic-binary 
+22128_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29475) || Inc(>=10): 1(42) || CAT-SINGLE-BINARY || sample 29475/42(29517) || SUCCESS results-logistic-binary 
+22129_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29236) || Inc(>=10): 1(281) || CAT-SINGLE-BINARY || sample 29236/281(29517) || SUCCESS results-logistic-binary 
+22130_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29361) || Inc(>=10): 1(156) || CAT-SINGLE-BINARY || sample 29361/156(29517) || SUCCESS results-logistic-binary 
+22131_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29517) || SKIP (only one value) || 
+22132_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29505) || Inc(>=10): 1(12) || CAT-SINGLE-BINARY || sample 29505/12(29517) || SUCCESS results-logistic-binary 
+22133_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29407) || Inc(>=10): 1(110) || CAT-SINGLE-BINARY || sample 29407/110(29517) || SUCCESS results-logistic-binary 
+22134_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29383) || Inc(>=10): 1(134) || CAT-SINGLE-BINARY || sample 29383/134(29517) || SUCCESS results-logistic-binary 
+22135_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29507) || Inc(>=10): 1(10) || CAT-SINGLE-BINARY || sample 29507/10(29517) || SUCCESS results-logistic-binary 
+22136_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29509) || Removed 1: 8<10 examples || SKIP (only one value) || 
+22137_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29470) || Inc(>=10): 1(47) || CAT-SINGLE-BINARY || sample 29470/47(29517) || SUCCESS results-logistic-binary 
+22138_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29516) || Removed 1: 1<10 examples || SKIP (only one value) || 
+22139_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29517) || SKIP (only one value) || 
+22140_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29499) || Inc(>=10): 1(18) || CAT-SINGLE-BINARY || sample 29499/18(29517) || SUCCESS results-logistic-binary 
+22141_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(29516) || Removed 1: 1<10 examples || SKIP (only one value) || 
+22146_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22147_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22148_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (42) || 
+22149_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (281) || 
+22150_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (156) || 
+22151_0|| INTEGER || SKIP (number of levels: 0)
+22152_0|| INTEGER || Removed 53: 1<10 examples || Removed 49: 1<10 examples || Removed 55: 3<10 examples || Removed 16: 1<10 examples || Removed 45: 2<10 examples || Removed 57: 1<10 examples || Removed 54: 1<10 examples || Removed 40: 1<10 examples || Removed 56: 1<10 examples || SKIP (number of levels: 0)
+22153_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (110) || 
+22154_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (134) || 
+22155_0|| INTEGER || Removed 51: 1<10 examples || Removed 32: 1<10 examples || Removed 57: 2<10 examples || Removed 60: 1<10 examples || Removed 55: 1<10 examples || Removed 46: 2<10 examples || Removed 49: 1<10 examples || Removed 59: 1<10 examples || SKIP (number of levels: 0)
+22156_0|| INTEGER || Removed 54: 1<10 examples || Removed 58: 2<10 examples || Removed 32: 1<10 examples || Removed 47: 1<10 examples || Removed 40: 1<10 examples || Removed 52: 1<10 examples || Removed 51: 1<10 examples || SKIP (number of levels: 0)

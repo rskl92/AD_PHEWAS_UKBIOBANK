@@ -1,0 +1,1 @@
+22613_0|| CAT-SINGLE || [1] "ERROR: 22613_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"

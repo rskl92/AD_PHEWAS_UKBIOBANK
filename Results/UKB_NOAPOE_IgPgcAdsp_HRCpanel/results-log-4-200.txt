@@ -1,0 +1,3 @@
+92_0|| INTEGER || reassignments: -3=NA|-1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+93_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+94_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear

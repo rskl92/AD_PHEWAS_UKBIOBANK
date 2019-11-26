@@ -1,0 +1,13 @@
+20119_0|| CAT-SINGLE || reassignments: -7=100 || Inc(>=10): 2(2048) || Inc(>=10): 5(14) || Inc(>=10): 7(13) || Removed 100: 2<10 examples || Inc(>=10): 3(73) || Inc(>=10): 6(24) || Removed 4: 2<10 examples || CAT-SINGLE-UNORDERED || reference: 2=2048 || SUCCESS results-notordered-logistic 
+20121_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+20122_0|| CAT-SINGLE || Inc(>=10): 1(489) || Inc(>=10): 2(439) || CAT-SINGLE-BINARY || sample 489/439(928) || SUCCESS results-logistic-binary 
+20123_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(6641) || SKIP (only one value) || 
+20124_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(10309) || SKIP (only one value) || 
+20125_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(6041) || SKIP (only one value) || 
+20126_0|| CAT-SINGLE || Inc(>=10): 5(5408) || Inc(>=10): 0(58196) || Inc(>=10): 1(489) || Inc(>=10): 3(5735) || Inc(>=10): 4(10179) || Inc(>=10): 2(439) || CAT-SINGLE-UNORDERED || reference: 0=58196 || SUCCESS results-notordered-logistic 
+20127_0|| INTEGER || Inc(>=10): 8(14741) || Inc(>=10): 1(31459) || Inc(>=10): 10(8880) || Inc(>=10): 2(30745) || Inc(>=10): 6(21630) || Inc(>=10): 3(29645) || Inc(>=10): 4(27412) || Inc(>=10): 0(41774) || Inc(>=10): 5(24579) || Inc(>=10): 7(18371) || Inc(>=10): 12(5380) || Inc(>=10): 9(11257) || Inc(>=10): 11(6625) || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10|11|12 || num categories: 13 || SUCCESS results-ordered-logistic
+20128_0|| INTEGER || Inc(>=10): 6(17287) || Inc(>=10): 8(38592) || Inc(>=10): 9(10324) || Inc(>=10): 10(10859) || Inc(>=10): 5(10216) || Inc(>=10): 7(7113) || Inc(>=10): 12(5279) || Inc(>=10): 13(2922) || Inc(>=10): 4(1845) || Inc(>=10): 11(3522) || Inc(>=10): 1(199) || Inc(>=10): 2(45) || Inc(>=10): 3(114) || 3-20 values || CAT-ORD || order: 1|2|3|4|5|6|7|8|9|10|11|12|13 || num categories: 13 || SUCCESS results-ordered-logistic
+20131_0|| INTEGER || Inc(>=10): 4.5(69892) || Inc(>=10): 5.66666666666667(10542) || Inc(>=10): 0(2029) || Inc(>=10): 1.5(529) || Removed 2.5: 3<10 examples || Removed 3.5: 3<10 examples || Removed 0.5: 1<10 examples || Removed 2: 1<10 examples || 3-20 values || CAT-ORD || order: 0|1.5|4.5|5.66666666666667 || num categories: 4 || SUCCESS results-ordered-logistic
+20132_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+20133_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+20147_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 11696, 1340, 5275 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

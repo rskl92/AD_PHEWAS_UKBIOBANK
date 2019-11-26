@@ -1,0 +1,23 @@
+[1] "--------------"
+[1] "40019"
+# weights:  60 (42 variable)
+initial  value 24513.843188 
+iter  10 value 16975.360307
+iter  20 value 16497.159593
+iter  30 value 14843.782920
+iter  40 value 13411.311932
+iter  50 value 10669.677481
+iter  60 value 10504.159580
+iter  70 value 10502.802859
+final  value 10502.801714 
+converged
+# weights:  56 (39 variable)
+initial  value 24513.843188 
+iter  10 value 16977.315556
+iter  20 value 16492.590792
+iter  30 value 14617.283341
+iter  40 value 12472.317707
+iter  50 value 10568.436161
+iter  60 value 10504.320767
+final  value 10504.041348 
+converged

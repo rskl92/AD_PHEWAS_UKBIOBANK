@@ -1,0 +1,125 @@
+[1] "--------------"
+[1] "5986"
+[1] "--------------"
+[1] "5992"
+[1] "--------------"
+[1] "5993"
+[1] "--------------"
+[1] "6014"
+[1] "--------------"
+[1] "6015"
+[1] "--------------"
+[1] "6016"
+[1] "--------------"
+[1] "6017"
+[1] "--------------"
+[1] "6019"
+# weights:  60 (42 variable)
+initial  value 26238.393373 
+iter  10 value 12720.361853
+iter  20 value 11627.084916
+iter  30 value 11142.464874
+iter  40 value 10506.909085
+iter  50 value 9769.286604
+iter  60 value 9384.397863
+iter  70 value 9341.830752
+iter  80 value 9340.660219
+final  value 9340.659287 
+converged
+# weights:  56 (39 variable)
+initial  value 26238.393373 
+iter  10 value 12722.912815
+iter  20 value 11428.069763
+iter  30 value 10821.665074
+iter  40 value 10279.852984
+iter  50 value 9609.026025
+iter  60 value 9349.528416
+iter  70 value 9342.115844
+final  value 9342.085686 
+converged
+[1] "--------------"
+[1] "6020"
+# weights:  75 (56 variable)
+initial  value 30044.986949 
+iter  10 value 8107.235872
+iter  20 value 7755.714508
+iter  30 value 7474.379642
+iter  40 value 7398.514335
+iter  50 value 7309.101938
+iter  60 value 7165.507299
+iter  70 value 6954.141024
+iter  80 value 6919.772511
+iter  90 value 6919.073324
+final  value 6919.072516 
+converged
+# weights:  70 (52 variable)
+initial  value 30044.986949 
+iter  10 value 8107.198283
+iter  20 value 7760.561537
+iter  30 value 7492.065746
+iter  40 value 7405.054197
+iter  50 value 7300.917615
+iter  60 value 7075.492257
+iter  70 value 6924.445056
+iter  80 value 6919.180366
+final  value 6919.129250 
+converged
+[1] "--------------"
+[1] "6032"
+[1] "--------------"
+[1] "6033"
+[1] "--------------"
+[1] "6034"
+[1] "--------------"
+[1] "6038"
+[1] "--------------"
+[1] "6039"
+[1] "--------------"
+[1] "6070"
+# weights:  45 (28 variable)
+initial  value 20690.165232 
+iter  10 value 9582.271078
+iter  20 value 9541.025935
+iter  30 value 9418.474980
+final  value 9417.958212 
+converged
+# weights:  42 (26 variable)
+initial  value 20690.165232 
+iter  10 value 9583.871981
+iter  20 value 9469.650511
+iter  30 value 9420.027336
+final  value 9420.026264 
+converged
+[1] "--------------"
+[1] "6072"
+# weights:  45 (28 variable)
+initial  value 20685.770783 
+iter  10 value 9829.143334
+iter  20 value 9811.589773
+iter  30 value 9690.452006
+final  value 9689.119403 
+converged
+# weights:  42 (26 variable)
+initial  value 20685.770783 
+iter  10 value 9830.079249
+iter  20 value 9731.769649
+iter  30 value 9691.016572
+final  value 9691.016201 
+converged
+[1] "--------------"
+[1] "6119"
+# weights:  45 (28 variable)
+initial  value 849.227299 
+iter  10 value 549.347161
+iter  20 value 547.772741
+iter  30 value 546.786901
+iter  40 value 546.570405
+final  value 546.570396 
+converged
+# weights:  42 (26 variable)
+initial  value 849.227299 
+iter  10 value 549.736133
+iter  20 value 547.832668
+iter  30 value 547.148918
+final  value 547.130818 
+converged

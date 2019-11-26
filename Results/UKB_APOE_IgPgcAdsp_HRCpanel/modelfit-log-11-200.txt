@@ -1,0 +1,165 @@
+[1] "--------------"
+[1] "1359"
+[1] "--------------"
+[1] "1369"
+[1] "--------------"
+[1] "1379"
+[1] "--------------"
+[1] "1389"
+[1] "--------------"
+[1] "1408"
+[1] "--------------"
+[1] "1418"
+# weights:  90 (70 variable)
+initial  value 599895.404376 
+iter  10 value 396200.551558
+iter  20 value 393332.522146
+iter  30 value 392918.847240
+iter  40 value 392108.813304
+iter  50 value 391165.339923
+iter  60 value 388006.082951
+iter  70 value 369138.708722
+iter  80 value 349818.146509
+iter  90 value 349442.156626
+final  value 349441.417841 
+converged
+# weights:  84 (65 variable)
+initial  value 599895.404376 
+iter  10 value 396203.672357
+iter  20 value 393330.007219
+iter  30 value 392974.421739
+iter  40 value 392183.911150
+iter  50 value 391630.501507
+iter  60 value 386076.683833
+iter  70 value 354748.499532
+iter  80 value 349480.694525
+iter  90 value 349457.119205
+final  value 349457.110914 
+converged
+[1] "--------------"
+[1] "1428"
+# weights:  60 (42 variable)
+initial  value 463471.475990 
+iter  10 value 346684.396883
+iter  20 value 345699.496320
+iter  30 value 345431.558795
+iter  40 value 344936.247264
+iter  50 value 319402.473120
+iter  60 value 319391.335707
+iter  60 value 319391.335344
+iter  60 value 319391.335344
+final  value 319391.335344 
+converged
+# weights:  56 (39 variable)
+initial  value 463471.475990 
+iter  10 value 346730.243180
+iter  20 value 345729.103817
+iter  30 value 345374.380336
+iter  40 value 338652.695806
+iter  50 value 319441.725707
+final  value 319440.506956 
+converged
+[1] "--------------"
+[1] "1438"
+[1] "--------------"
+[1] "1448"
+# weights:  60 (42 variable)
+initial  value 448356.708571 
+iter  10 value 382928.026978
+iter  20 value 380526.808918
+iter  30 value 376935.437152
+iter  40 value 376398.910306
+iter  50 value 334962.535662
+iter  60 value 334535.969546
+final  value 334535.944542 
+converged
+# weights:  56 (39 variable)
+initial  value 448356.708571 
+iter  10 value 382937.347873
+iter  20 value 380608.018070
+iter  30 value 376781.513889
+iter  40 value 373383.206084
+iter  50 value 334619.015681
+iter  60 value 334553.110597
+iter  60 value 334553.110475
+iter  60 value 334553.110475
+final  value 334553.110475 
+converged
+[1] "--------------"
+[1] "1458"
+[1] "--------------"
+[1] "1468"
+# weights:  75 (56 variable)
+initial  value 449923.196733 
+iter  10 value 446571.136550
+iter  20 value 445201.567291
+iter  30 value 445003.994898
+iter  40 value 444938.707484
+iter  50 value 444908.761073
+iter  60 value 443509.261424
+final  value 443509.256657 
+converged
+# weights:  70 (52 variable)
+initial  value 449923.196733 
+iter  10 value 446584.253705
+iter  20 value 445216.704630
+iter  30 value 445026.868580
+iter  40 value 444949.850785
+iter  50 value 444638.132992
+final  value 443528.231741 
+converged
+[1] "--------------"
+[1] "1478"
+[1] "--------------"
+[1] "1488"
+[1] "--------------"
+[1] "1498"
+[1] "--------------"
+[1] "1508"
+# weights:  60 (42 variable)
+initial  value 366005.278341 
+iter  10 value 277738.333227
+iter  20 value 277084.051400
+iter  30 value 276884.015814
+iter  40 value 276690.180668
+iter  50 value 274630.942699
+final  value 274630.917333 
+converged
+# weights:  56 (39 variable)
+initial  value 366005.278341 
+iter  10 value 277739.222358
+iter  20 value 277106.020622
+iter  30 value 276962.816657
+iter  40 value 276768.210606
+final  value 274632.382338 
+converged
+[1] "--------------"
+[1] "1518"
+[1] "--------------"
+[1] "1528"
+[1] "--------------"
+[1] "1538"
+# weights:  45 (28 variable)
+initial  value 367301.243695 
+iter  10 value 304605.727416
+iter  20 value 303942.489966
+iter  30 value 296751.970544
+final  value 296204.227627 
+converged
+# weights:  42 (26 variable)
+initial  value 367301.243695 
+iter  10 value 304631.868426
+iter  20 value 303579.529765
+iter  30 value 296246.492536
+final  value 296244.036077 
+converged
+[1] "--------------"
+[1] "1548"
+[1] "--------------"
+[1] "1558"
+[1] "--------------"
+[1] "1568"
+[1] "--------------"
+[1] "1578"
+[1] "--------------"
+[1] "1588"

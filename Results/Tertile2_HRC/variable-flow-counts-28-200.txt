@@ -1,0 +1,16 @@
+name,countValue
+catSin.case1,6
+catSin.case2,3
+catSin.case3,5
+cont.main,1
+cont.ordcattry,2
+cont.ordcattry.ordcat,2
+int.catord,5
+int.continuous,3
+ordCat,13
+start.catSin,14
+start.int,8
+success.binary,5
+success.continuous,1
+success.ordCat,13
+success.unordCat,3

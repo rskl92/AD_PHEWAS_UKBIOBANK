@@ -1,0 +1,3 @@
+6770_2|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 254, 189, 192 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6771_2|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 433, 225, 235 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6772_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear

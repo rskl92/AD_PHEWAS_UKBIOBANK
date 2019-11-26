@@ -1,0 +1,22 @@
+1883_0|| INTEGER || reassignments: -1=NA|-3=NA || Inc(>=10): 2(46778) || Inc(>=10): 1(121719) || Inc(>=10): 0(135567) || Inc(>=10): 4(5860) || Inc(>=10): 3(16404) || Inc(>=10): 5(2301) || Inc(>=10): 6(915) || Inc(>=10): 9(37) || Inc(>=10): 7(360) || Inc(>=10): 8(133) || Removed 11: 9<10 examples || Inc(>=10): 10(13) || Removed 12: 4<10 examples || Removed 14: 1<10 examples || Removed 20: 1<10 examples || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10 || num categories: 11 || SUCCESS results-ordered-logistic
+1920_0|| CAT-SINGLE || Inc(>=10): 1(147475) || Inc(>=10): 0(179788) || CAT-SINGLE-BINARY || sample 179788/147475(327263) || SUCCESS results-logistic-binary 
+1930_0|| CAT-SINGLE || Inc(>=10): 0(188780) || Inc(>=10): 1(140821) || CAT-SINGLE-BINARY || sample 188780/140821(329601) || SUCCESS results-logistic-binary 
+1940_0|| CAT-SINGLE || Inc(>=10): 0(230885) || Inc(>=10): 1(89651) || CAT-SINGLE-BINARY || sample 230885/89651(320536) || SUCCESS results-logistic-binary 
+1950_0|| CAT-SINGLE || Inc(>=10): 0(144552) || Inc(>=10): 1(181107) || CAT-SINGLE-BINARY || sample 144552/181107(325659) || SUCCESS results-logistic-binary 
+1960_0|| CAT-SINGLE || Inc(>=10): 0(195317) || Inc(>=10): 1(133048) || CAT-SINGLE-BINARY || sample 195317/133048(328365) || SUCCESS results-logistic-binary 
+1970_0|| CAT-SINGLE || Inc(>=10): 1(77261) || Inc(>=10): 0(249332) || CAT-SINGLE-BINARY || sample 249332/77261(326593) || SUCCESS results-logistic-binary 
+1980_0|| CAT-SINGLE || Inc(>=10): 1(185457) || Inc(>=10): 0(141109) || CAT-SINGLE-BINARY || sample 141109/185457(326566) || SUCCESS results-logistic-binary 
+1990_0|| CAT-SINGLE || Inc(>=10): 0(269449) || Inc(>=10): 1(55733) || CAT-SINGLE-BINARY || sample 269449/55733(325182) || SUCCESS results-logistic-binary 
+2000_0|| CAT-SINGLE || Inc(>=10): 0(168083) || Inc(>=10): 1(153553) || CAT-SINGLE-BINARY || sample 168083/153553(321636) || SUCCESS results-logistic-binary 
+2010_0|| CAT-SINGLE || Inc(>=10): 0(254171) || Inc(>=10): 1(69085) || CAT-SINGLE-BINARY || sample 254171/69085(323256) || SUCCESS results-logistic-binary 
+2020_0|| CAT-SINGLE || Inc(>=10): 0(271844) || Inc(>=10): 1(58230) || CAT-SINGLE-BINARY || sample 271844/58230(330074) || SUCCESS results-logistic-binary 
+2030_0|| CAT-SINGLE || Inc(>=10): 0(234213) || Inc(>=10): 1(92386) || CAT-SINGLE-BINARY || sample 234213/92386(326599) || SUCCESS results-logistic-binary 
+2040_0|| CAT-SINGLE || Inc(>=10): 0(241231) || Inc(>=10): 1(82404) || CAT-SINGLE-BINARY || sample 241231/82404(323635) || SUCCESS results-logistic-binary 
+2050_0|| CAT-SINGLE || Inc(>=10): 1(248124) || Inc(>=10): 2(58994) || Inc(>=10): 3(8453) || Inc(>=10): 4(5595) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+2060_0|| CAT-SINGLE || Inc(>=10): 1(259406) || Inc(>=10): 2(51553) || Inc(>=10): 3(7867) || Inc(>=10): 4(5753) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+2070_0|| CAT-SINGLE || Inc(>=10): 1(239053) || Inc(>=10): 2(70667) || Inc(>=10): 3(7737) || Inc(>=10): 4(5494) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+2080_0|| CAT-SINGLE || Inc(>=10): 1(153964) || Inc(>=10): 2(133363) || Inc(>=10): 3(18703) || Inc(>=10): 4(19370) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+2090_0|| CAT-SINGLE || Inc(>=10): 0(218250) || Inc(>=10): 1(114632) || CAT-SINGLE-BINARY || sample 218250/114632(332882) || SUCCESS results-logistic-binary 
+2100_0|| CAT-SINGLE || Inc(>=10): 0(295992) || Inc(>=10): 1(37658) || CAT-SINGLE-BINARY || sample 295992/37658(333650) || SUCCESS results-logistic-binary 
+2110_0|| CAT-SINGLE || Inc(>=10): 1(17465) || Inc(>=10): 0(47456) || Inc(>=10): 5(177258) || Inc(>=10): 4(31161) || Inc(>=10): 3(35138) || Inc(>=10): 2(16951) || ordered || CAT-ORD || order: 0|1|2|3|4|5 || num categories: 6 || SUCCESS results-ordered-logistic
+2129_0|| CAT-SINGLE || Inc(>=10): 1(307851) || Inc(>=10): 2(27117) || CAT-SINGLE-BINARY || sample 307851/27117(334968) || SUCCESS results-logistic-binary 

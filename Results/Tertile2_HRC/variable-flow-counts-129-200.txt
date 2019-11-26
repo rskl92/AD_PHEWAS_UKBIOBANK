@@ -1,0 +1,9 @@
+name,countValue
+cont.main,67
+int.continuous,26
+start.cont,41
+start.exposure.cont,20
+start.exposure.int,25
+start.int,26
+success.continuous,67
+success.exposure.continuous,45

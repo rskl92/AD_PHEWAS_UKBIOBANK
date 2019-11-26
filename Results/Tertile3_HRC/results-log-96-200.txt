@@ -1,0 +1,13 @@
+20119_0|| CAT-SINGLE || reassignments: -7=100 || Inc(>=10): 2(1531) || Removed 100: 1<10 examples || Inc(>=10): 3(33) || Removed 6: 4<10 examples || Removed 5: 2<10 examples || CAT-SINGLE-BINARY || sample 1531/33(1564) || SUCCESS results-logistic-binary 
+20121_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+20122_0|| CAT-SINGLE || Inc(>=10): 2(124) || Inc(>=10): 1(118) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (242) || 
+20123_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(2120) || SKIP (only one value) || 
+20124_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(2808) || SKIP (only one value) || 
+20125_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(1793) || SKIP (only one value) || 
+20126_0|| CAT-SINGLE || Inc(>=10): 0(23120) || Inc(>=10): 3(1713) || Inc(>=10): 4(2781) || Inc(>=10): 5(1771) || Inc(>=10): 2(124) || Inc(>=10): 1(118) || CAT-SINGLE-UNORDERED || reference: 0=23120 || SUCCESS results-notordered-logistic 
+20127_0|| INTEGER || Inc(>=10): 1(11509) || Inc(>=10): 0(15418) || Inc(>=10): 6(6519) || Inc(>=10): 3(10206) || Inc(>=10): 4(8909) || Inc(>=10): 2(11051) || Inc(>=10): 5(7702) || Inc(>=10): 8(3934) || Inc(>=10): 11(1578) || Inc(>=10): 7(5247) || Inc(>=10): 10(2163) || Inc(>=10): 9(2883) || Inc(>=10): 12(1100) || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10|11|12 || num categories: 13 || SUCCESS results-ordered-logistic
+20128_0|| INTEGER || Inc(>=10): 9(3428) || Inc(>=10): 5(4589) || Inc(>=10): 8(13714) || Inc(>=10): 7(2838) || Inc(>=10): 6(7112) || Inc(>=10): 4(1044) || Inc(>=10): 10(3200) || Inc(>=10): 12(1293) || Inc(>=10): 11(928) || Inc(>=10): 13(656) || Inc(>=10): 1(143) || Inc(>=10): 2(32) || Inc(>=10): 3(74) || 3-20 values || CAT-ORD || order: 1|2|3|4|5|6|7|8|9|10|11|12|13 || num categories: 13 || SUCCESS results-ordered-logistic
+20131_0|| INTEGER || Inc(>=10): 4.5(20510) || Inc(>=10): 1.5(262) || Inc(>=10): 0(1009) || Inc(>=10): 5.66666666666667(1950) || Removed 2.5: 1<10 examples || Removed 0.5: 1<10 examples || 3-20 values || CAT-ORD || order: 0|1.5|4.5|5.66666666666667 || num categories: 4 || SUCCESS results-ordered-logistic
+20132_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+20133_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+20147_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3442, 437, 1826 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

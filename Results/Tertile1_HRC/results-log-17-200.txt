@@ -1,0 +1,18 @@
+3059_0|| Excluded cat-single: YES-ACE || 
+3062_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3063_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3064_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+3065_0|| Excluded cat-single: YES-ACE || 
+3077_0|| CAT-SINGLE || Inc(>=10): 40(19880) || Inc(>=10): 50(91259) || Inc(>=10): 30(194) || ordered || CAT-ORD || order: 30|40|50 || num categories: 3 || SUCCESS results-ordered-logistic
+3079_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(111430) || Inc(>=10): 1(131) || CAT-SINGLE-BINARY || sample 111430/131(111561) || SUCCESS results-logistic-binary 
+3081_0|| Excluded cat-single: YES-ACE || 
+3082_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(75861) || Inc(>=10): 2(88) || Inc(>=10): 3(44) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+3083_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3084_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3085_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3088_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(104780) || Inc(>=10): 2(341) || Inc(>=10): 3(6440) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+3089_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(101998) || Inc(>=10): 1(2782) || CAT-SINGLE-BINARY || sample 101998/2782(104780) || SUCCESS results-logistic-binary 
+3090_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(104024) || Inc(>=10): 1(756) || CAT-SINGLE-BINARY || sample 104024/756(104780) || SUCCESS results-logistic-binary 
+3137_0|| INTEGER || Inc(>=10): 3(75382) || Inc(>=10): 2(28729) || Inc(>=10): 1(53) || 3-20 values || CAT-ORD || order: 1|2|3 || num categories: 3 || SUCCESS results-ordered-logistic
+3140_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(61272) || Inc(>=10): 2(116) || Inc(>=10): 3(70) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+3143_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

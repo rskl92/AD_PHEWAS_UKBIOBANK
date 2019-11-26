@@ -1,0 +1,6 @@
+5134_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5135_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5136_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5138_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5139_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 
+5140_0|| Excluded cat-single: YES-CAT-SIN-MUL-VAL || 

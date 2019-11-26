@@ -1,0 +1,11 @@
+name,countValue
+catSin.case3,4
+cont.main,26
+int.continuous,2
+start.catSin,4
+start.cont,24
+start.exposure.cont,12
+start.int,2
+success.binary,4
+success.continuous,26
+success.exposure.continuous,12

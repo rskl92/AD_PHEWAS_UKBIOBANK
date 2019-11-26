@@ -1,0 +1,67 @@
+25079_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25080_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25081_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25082_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25083_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25084_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25085_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25086_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25087_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25088_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25089_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25090_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25091_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25092_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25093_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25094_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25095_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25096_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25097_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25098_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25099_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25100_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25101_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25102_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25103_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+25104_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 680, 680, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25105_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 680, 680, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25106_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 674, 687, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25107_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 673, 684, 686 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25108_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 694, 666, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25109_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 680, 650, 713 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25110_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 678, 684, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25111_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 674, 688, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25112_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 676, 685, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25113_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 672, 690, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25114_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 670, 690, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25115_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 686, 674, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25116_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 679, 683, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25117_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 670, 688, 685 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25118_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 672, 690, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25119_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 662, 698, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25120_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 669, 692, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25121_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 666, 694, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25122_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 678, 692, 673 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25123_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 671, 689, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25124_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 671, 688, 684 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25125_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 679, 680, 684 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25126_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 673, 688, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25127_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 682, 676, 685 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25128_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 677, 683, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25129_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 695, 671, 677 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25130_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 671, 692, 680 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25131_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 679, 683, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25132_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 694, 668, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25133_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 674, 687, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25134_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 679, 680, 684 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25135_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 672, 695, 676 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25136_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 671, 691, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25137_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 677, 683, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25138_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 678, 684, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25139_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 670, 693, 680 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25140_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 683, 677, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25141_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 675, 686, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25142_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 681, 645, 717 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25143_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 669, 692, 682 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25144_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 662, 700, 681 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+25145_2|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 667, 693, 683 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

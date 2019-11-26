@@ -1,0 +1,277 @@
+[1] "--------------"
+[1] "20049#101"
+[1] "--------------"
+[1] "20049#433"
+[1] "--------------"
+[1] "20049#202"
+[1] "--------------"
+[1] "20049#601"
+[1] "--------------"
+[1] "20049#201"
+[1] "--------------"
+[1] "20049#300"
+[1] "--------------"
+[1] "20051"
+# weights:  60 (42 variable)
+initial  value 820.686262 
+iter  10 value 262.313738
+iter  20 value 237.900702
+iter  30 value 222.332700
+iter  40 value 216.395327
+iter  50 value 215.594623
+iter  60 value 215.585138
+iter  70 value 215.580720
+final  value 215.580688 
+converged
+# weights:  56 (39 variable)
+initial  value 820.686262 
+iter  10 value 263.990436
+iter  20 value 239.801620
+iter  30 value 225.580901
+iter  40 value 218.341160
+iter  50 value 217.637982
+iter  60 value 217.636226
+iter  70 value 217.632737
+final  value 217.632728 
+converged
+[1] "--------------"
+[1] "20052"
+# weights:  120 (98 variable)
+initial  value 1904.768452 
+iter  10 value 1636.947475
+iter  20 value 1590.178242
+iter  30 value 1552.515517
+iter  40 value 1517.102207
+iter  50 value 1481.459390
+iter  60 value 1467.589525
+iter  70 value 1464.902642
+iter  80 value 1463.952886
+iter  90 value 1463.327280
+iter 100 value 1463.024004
+final  value 1462.960835 
+converged
+# weights:  112 (91 variable)
+initial  value 1904.768452 
+iter  10 value 1637.178877
+iter  20 value 1591.242526
+iter  30 value 1549.498305
+iter  40 value 1502.810865
+iter  50 value 1478.361262
+iter  60 value 1469.041634
+iter  70 value 1466.142823
+iter  80 value 1464.965428
+iter  90 value 1464.422438
+iter 100 value 1464.192053
+final  value 1464.191958 
+converged
+[1] "--------------"
+[1] "20053"
+# weights:  120 (98 variable)
+initial  value 2979.839729 
+iter  10 value 2422.418832
+iter  20 value 2366.668894
+iter  30 value 2282.464662
+iter  40 value 2130.062419
+iter  50 value 2094.410282
+iter  60 value 2032.714393
+iter  70 value 2020.828306
+iter  80 value 2016.327302
+iter  90 value 2011.908957
+iter 100 value 2009.722572
+iter 110 value 2009.399271
+final  value 2009.399024 
+converged
+# weights:  112 (91 variable)
+initial  value 2979.839729 
+iter  10 value 2422.486356
+iter  20 value 2366.951793
+iter  30 value 2280.489258
+iter  40 value 2127.719184
+iter  50 value 2088.525633
+iter  60 value 2035.362868
+iter  70 value 2019.890013
+iter  80 value 2014.144279
+iter  90 value 2010.934693
+iter 100 value 2010.008783
+final  value 2010.002497 
+converged
+[1] "--------------"
+[1] "20054"
+# weights:  120 (98 variable)
+initial  value 3115.003429 
+iter  10 value 2437.325190
+iter  20 value 2384.316951
+iter  30 value 2360.068693
+iter  40 value 2343.465056
+iter  50 value 2331.993929
+iter  60 value 2317.813610
+iter  70 value 2312.189254
+iter  80 value 2309.457959
+iter  90 value 2307.904880
+iter 100 value 2307.114146
+final  value 2307.072142 
+converged
+# weights:  112 (91 variable)
+initial  value 3115.003429 
+iter  10 value 2437.929909
+iter  20 value 2389.580726
+iter  30 value 2367.908103
+iter  40 value 2350.275436
+iter  50 value 2338.829218
+iter  60 value 2325.190595
+iter  70 value 2320.024751
+iter  80 value 2316.836673
+iter  90 value 2315.528284
+iter 100 value 2315.270415
+final  value 2315.270330 
+converged
+[1] "--------------"
+[1] "20055"
+# weights:  120 (98 variable)
+initial  value 1757.128103 
+iter  10 value 1488.997607
+iter  20 value 1457.051147
+iter  30 value 1434.096744
+iter  40 value 1408.627800
+iter  50 value 1395.117752
+iter  60 value 1387.637136
+iter  70 value 1385.758186
+iter  80 value 1384.667786
+iter  90 value 1383.881437
+iter 100 value 1383.536683
+iter 110 value 1383.472171
+iter 110 value 1383.472169
+iter 110 value 1383.472169
+final  value 1383.472169 
+converged
+# weights:  112 (91 variable)
+initial  value 1757.128103 
+iter  10 value 1489.222026
+iter  20 value 1458.331401
+iter  30 value 1434.829178
+iter  40 value 1409.580520
+iter  50 value 1396.383484
+iter  60 value 1389.419006
+iter  70 value 1387.447857
+iter  80 value 1385.976797
+iter  90 value 1385.238755
+iter 100 value 1385.006682
+final  value 1385.006405 
+converged
+[1] "--------------"
+[1] "20060"
+# weights:  60 (42 variable)
+initial  value 865.047681 
+iter  10 value 747.344687
+iter  20 value 728.959451
+iter  30 value 715.977161
+iter  40 value 712.293735
+iter  50 value 709.932314
+iter  50 value 709.932308
+iter  50 value 709.932308
+final  value 709.932308 
+converged
+# weights:  56 (39 variable)
+initial  value 865.047681 
+iter  10 value 748.281046
+iter  20 value 730.318799
+iter  30 value 718.711954
+iter  40 value 712.515918
+final  value 711.170780 
+converged
+[1] "--------------"
+[1] "20061"
+# weights:  120 (98 variable)
+initial  value 4185.915823 
+iter  10 value 3265.842522
+iter  20 value 3218.583161
+iter  30 value 3142.719626
+iter  40 value 2951.894701
+iter  50 value 2906.154434
+iter  60 value 2880.485139
+iter  70 value 2859.875721
+iter  80 value 2855.873166
+iter  90 value 2854.135593
+iter 100 value 2853.122000
+final  value 2853.025044 
+converged
+# weights:  112 (91 variable)
+initial  value 4185.915823 
+iter  10 value 3266.514470
+iter  20 value 3219.670017
+iter  30 value 3140.292219
+iter  40 value 2988.833419
+iter  50 value 2905.906641
+iter  60 value 2885.202922
+iter  70 value 2861.899960
+iter  80 value 2857.593238
+iter  90 value 2856.000027
+iter 100 value 2855.416893
+iter 100 value 2855.416881
+iter 100 value 2855.416881
+final  value 2855.416881 
+converged
+[1] "--------------"
+[1] "20062"
+# weights:  120 (98 variable)
+initial  value 4406.336627 
+iter  10 value 3082.199653
+iter  20 value 3032.226327
+iter  30 value 2985.418090
+iter  40 value 2936.716284
+iter  50 value 2909.141700
+iter  60 value 2894.369688
+iter  70 value 2886.965531
+iter  80 value 2884.797767
+iter  90 value 2883.237050
+iter 100 value 2882.866575
+final  value 2882.835334 
+converged
+# weights:  112 (91 variable)
+initial  value 4406.336627 
+iter  10 value 3082.717652
+iter  20 value 3034.650378
+iter  30 value 2986.064303
+iter  40 value 2941.713365
+iter  50 value 2914.812085
+iter  60 value 2899.243251
+iter  70 value 2888.546467
+iter  80 value 2885.291724
+iter  90 value 2884.498954
+final  value 2884.437288 
+converged
+[1] "--------------"
+[1] "20072"
+# weights:  90 (70 variable)
+initial  value 3103.327401 
+iter  10 value 1752.360559
+iter  20 value 1735.410180
+iter  30 value 1606.452169
+iter  40 value 1566.614606
+iter  50 value 1546.396905
+iter  60 value 1541.388175
+iter  70 value 1538.804981
+iter  80 value 1538.336075
+iter  80 value 1538.336073
+iter  80 value 1538.336073
+final  value 1538.336073 
+converged
+# weights:  84 (65 variable)
+initial  value 3103.327401 
+iter  10 value 1753.021011
+iter  20 value 1736.395690
+iter  30 value 1608.025261
+iter  40 value 1566.321908
+iter  50 value 1547.863199
+iter  60 value 1543.371650
+iter  70 value 1542.001523
+final  value 1541.992249 
+converged
+[1] "--------------"
+[1] "20074"
+[1] "--------------"
+[1] "20075"
+[1] "--------------"
+[1] "20077"
+[1] "--------------"
+[1] "20082"

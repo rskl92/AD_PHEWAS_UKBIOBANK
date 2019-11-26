@@ -1,0 +1,1 @@
+40019_0|| CAT-SINGLE || Inc(>=10): 3(21589) || Inc(>=10): 4(2068) || Inc(>=10): 13(995) || Inc(>=10): 23(1718) || Removed 22: 1<10 examples || CAT-SINGLE-UNORDERED || reference: 3=21589 || SUCCESS results-notordered-logistic 

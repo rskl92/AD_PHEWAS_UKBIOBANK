@@ -1,0 +1,3 @@
+10141_0|| INTEGER || Inc(>=10): 0.4(93) || Inc(>=10): 0.45(15) || Removed 0.35: 4<10 examples || Removed 0.5: 1<10 examples || Removed 0.55: 1<10 examples || Removed 0.2: 1<10 examples || Removed 0.7: 1<10 examples || BINARY-LOGISTIC-SKIP-500 (108) || 
+10144_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (116) || 
+10147_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (116) || 

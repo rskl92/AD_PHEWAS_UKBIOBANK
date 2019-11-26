@@ -1,0 +1,20 @@
+5162_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5163_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5164_0|| Excluded cat-multiple: YES-ACE || 
+5181_0|| CAT-SINGLE || Inc(>=10): 0(67949) || Inc(>=10): 2(5119) || Inc(>=10): 3(444) || Inc(>=10): 1(111) || ordered || CAT-ORD || order: 0|1|2|3 || num categories: 4 || SUCCESS results-ordered-logistic
+5182_0|| CAT-SINGLE || Inc(>=10): 1(73530) || Inc(>=10): 3(40) || Removed 4: 4<10 examples || Inc(>=10): 2(49) || CAT-SINGLE-UNORDERED || reference: 1=73530 || SUCCESS results-notordered-logistic 
+5183_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(72850) || Inc(>=10): 1(769) || CAT-SINGLE-BINARY || sample 72850/769(73619) || SUCCESS results-logistic-binary 
+5185_0|| CAT-SINGLE || Inc(>=10): 1(73222) || Inc(>=10): 7(212) || Inc(>=10): 6(34) || CAT-SINGLE-UNORDERED || reference: 1=73222 || SUCCESS results-notordered-logistic 
+5187_0|| CAT-SINGLE || Inc(>=10): 1(73173) || Inc(>=10): 6(40) || Inc(>=10): 7(246) || CAT-SINGLE-UNORDERED || reference: 1=73173 || SUCCESS results-notordered-logistic 
+5189_0|| CAT-SINGLE || Inc(>=10): 1(71442) || Inc(>=10): 7(848) || Inc(>=10): 6(414) || CAT-SINGLE-UNORDERED || reference: 1=71442 || SUCCESS results-notordered-logistic 
+5191_0|| CAT-SINGLE || Inc(>=10): 1(71218) || Inc(>=10): 7(924) || Inc(>=10): 6(552) || CAT-SINGLE-UNORDERED || reference: 1=71218 || SUCCESS results-notordered-logistic 
+5194_0|| CAT-SINGLE || Inc(>=10): 1(70171) || Inc(>=10): 6(1095) || Inc(>=10): 7(1438) || CAT-SINGLE-UNORDERED || reference: 1=70171 || SUCCESS results-notordered-logistic 
+5196_0|| CAT-SINGLE || Inc(>=10): 1(70080) || Inc(>=10): 6(1111) || Inc(>=10): 7(1503) || CAT-SINGLE-UNORDERED || reference: 1=70080 || SUCCESS results-notordered-logistic 
+5201_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5208_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5215_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || Inc(>=10): 12(71442) || SKIP (number of levels: 1)
+5221_0|| INTEGER || Inc(>=10): 2(25026) || Inc(>=10): 1(22744) || Inc(>=10): 0(23566) || Inc(>=10): 5(24) || Inc(>=10): 3(42) || Inc(>=10): 4(30) || Removed 6: 5<10 examples || Removed 9: 2<10 examples || Removed 8: 2<10 examples || Removed 7: 1<10 examples || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5 || num categories: 6 || SUCCESS results-ordered-logistic
+5237_0|| INTEGER || Inc(>=10): 2(45857) || Inc(>=10): 1(19349) || Inc(>=10): 3(197) || Inc(>=10): 4(281) || Inc(>=10): 0(3047) || Inc(>=10): 5(401) || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5 || num categories: 6 || SUCCESS results-ordered-logistic
+5251_0|| INTEGER || Inc(>=10): 0(6217) || Inc(>=10): 2(34574) || Inc(>=10): 1(19392) || Inc(>=10): 3(177) || Inc(>=10): 4(211) || Inc(>=10): 5(81) || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5 || num categories: 6 || SUCCESS results-ordered-logistic
+5254_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+5255_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

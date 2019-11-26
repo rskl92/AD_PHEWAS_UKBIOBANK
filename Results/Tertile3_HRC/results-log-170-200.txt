@@ -1,0 +1,12 @@
+41217_0|| CAT-MULTIPLE || reassignments: 8=NA|9=-1 || SKIP_val:-1 < 0 CAT-MUL-BINARY-VAR 1 || ALL || Removed 6 examples != 1 but with missing value (<0) || CAT-MULT-SKIP-10 (111649 vs 1) ||  CAT-MUL-BINARY-VAR 5 || ALL || Removed 6 examples != 5 but with missing value (<0) || CAT-MULT-SKIP-10 (111649 vs 1) || 
+41218_0|| CAT-MULTIPLE || reassignments: 8=-1|9=NA || SKIP_val:-1 < 0 CAT-MUL-BINARY-VAR 0 || NO_NAN Remove NA participants 28273 || Removed 81487 examples != 0 but with missing value (<0) || sample 16/1880(1896) || SUCCESS results-logistic-binary  CAT-MUL-BINARY-VAR 1 || NO_NAN Remove NA participants 28273 || Removed 82943 examples != 1 but with missing value (<0) || BINARY-LOGISTIC-SKIP-500 (440) ||  CAT-MUL-BINARY-VAR 2 || NO_NAN Remove NA participants 28273 || Removed 83221 examples != 2 but with missing value (<0) || BINARY-LOGISTIC-SKIP-500 (162) || 
+41219_0|| CAT-MULTIPLE || reassignments: 8=NA|9=-1 || SKIP_val:-1 < 0
+41220_0|| CAT-MULTIPLE || reassignments: 8=NA|9=-1 || SKIP_val:-1 < 0
+41221_0|| CAT-MULTIPLE || reassignments: X=-1 || 
+41222_0|| CAT-MULTIPLE || reassignments: 8=NA|9=-1 || SKIP_val:-1 < 0
+41223_0|| CAT-MULTIPLE || reassignments: 9=-1 || SKIP_val:-1 < 0
+41224_0|| CAT-MULTIPLE || reassignments: 9=-1 || SKIP_val:-1 < 0
+41225_0|| CAT-MULTIPLE || reassignments: 9=-1 || SKIP_val:-1 < 0
+41226_0|| CAT-MULTIPLE || reassignments: 9=-1|0=NA ||  CAT-MUL-BINARY-VAR 2 || NO_NAN Remove NA participants 111376 || Removed 0 examples != 2 but with missing value (<0) || CAT-MULT-SKIP-10 (0 vs 280) || 
+41227_0|| CAT-MULTIPLE || reassignments: 9=-1 || SKIP_val:-1 < 0
+41228_0|| CAT-MULTIPLE || reassignments: 9=-1 || SKIP_val:-1 < 0

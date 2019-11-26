@@ -1,0 +1,2 @@
+20011_0|| CONTINUOUS MAIN || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+20012_0|| Excluded cat-single: YES-ACE || 

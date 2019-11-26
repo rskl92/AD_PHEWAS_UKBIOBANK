@@ -1,0 +1,21 @@
+4674_0|| CAT-SINGLE || Inc(>=10): 3(8979) || Inc(>=10): 4(24214) || Inc(>=10): 1(905) || Inc(>=10): 2(1107) || ordered || CAT-ORD || order: 1|2|3|4 || num categories: 4 || SUCCESS results-ordered-logistic
+4689_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (469) || 
+4700_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+4717_0|| CAT-SINGLE || Inc(>=10): 0(31265) || Inc(>=10): 1(3518) || CAT-SINGLE-BINARY || sample 31265/3518(34783) || SUCCESS results-logistic-binary 
+4728_0|| CAT-SINGLE || Inc(>=10): 0(27490) || Inc(>=10): 1(7606) || CAT-SINGLE-BINARY || sample 27490/7606(35096) || SUCCESS results-logistic-binary 
+4792_0|| CAT-SINGLE || Inc(>=10): 0(35366) || Inc(>=10): 1(27) || CAT-SINGLE-BINARY || sample 35366/27(35393) || SUCCESS results-logistic-binary 
+4803_0|| CAT-SINGLE || Inc(>=10): 0(24809) || Inc(>=10): 11(2341) || Inc(>=10): 13(3179) || Inc(>=10): 14(3586) || Inc(>=10): 12(920) || CAT-SINGLE-UNORDERED || reference: 0=24809 || SUCCESS results-notordered-logistic 
+4814_0|| CAT-SINGLE || Inc(>=10): 4(3062) || Inc(>=10): 12(1617) || Inc(>=10): 13(4917) || Inc(>=10): 11(368) || ordered || CAT-ORD || order: 4|11|12|13 || num categories: 4 || SUCCESS results-ordered-logistic
+4825_0|| CAT-SINGLE || reorder 0|13|12|11 || Inc(>=10): 1(27291) || Inc(>=10): 2(2016) || Inc(>=10): 4(3941) || Inc(>=10): 3(1867) || ordered || CAT-ORD || order: 0|13|12|11 || num categories: 4 || SUCCESS results-ordered-logistic
+4836_0|| CAT-SINGLE || reorder 0|13|12|11 || Inc(>=10): 1(30995) || Inc(>=10): 3(1524) || Inc(>=10): 2(1013) || Inc(>=10): 4(1393) || ordered || CAT-ORD || order: 0|13|12|11 || num categories: 4 || SUCCESS results-ordered-logistic
+4849_0|| CAT-SINGLE || Inc(>=10): 1(34686) || Inc(>=10): 0(305) || Inc(>=10): 11(199) || Inc(>=10): 12(176) || CAT-SINGLE-UNORDERED || reference: 1=34686 || SUCCESS results-notordered-logistic 
+4924_0|| CAT-SINGLE || Inc(>=10): 1(34727) || Inc(>=10): 2(374) || CAT-SINGLE-BINARY || sample 34727/374(35101) || SUCCESS results-logistic-binary 
+4935_0|| CAT-SINGLE || Inc(>=10): 15(33283) || Inc(>=10): 16(429) || Inc(>=10): 14(283) || Inc(>=10): 17(158) || Inc(>=10): 13(96) || ordered || CAT-ORD || order: 13|14|15|16|17 || num categories: 5 || SUCCESS results-ordered-logistic
+4946_0|| CAT-SINGLE || Inc(>=10): 987(34421) || Inc(>=10): 714(190) || Inc(>=10): 642(36) || Inc(>=10): 253(10) || CAT-SINGLE-UNORDERED || reference: 987=34421 || SUCCESS results-notordered-logistic 
+4957_0|| CAT-SINGLE || Inc(>=10): 4(29933) || Inc(>=10): 1(3224) || Inc(>=10): 2(1353) || Inc(>=10): 5(31) || Inc(>=10): 3(26) || CAT-SINGLE-UNORDERED || reference: 4=29933 || SUCCESS results-notordered-logistic 
+4968_0|| CAT-SINGLE || Inc(>=10): 6(29704) || Inc(>=10): 5(1416) || Inc(>=10): 7(226) || Inc(>=10): 8(386) || CAT-SINGLE-UNORDERED || reference: 6=29704 || SUCCESS results-notordered-logistic 
+4979_0|| CAT-SINGLE || Inc(>=10): 1(3107) || Inc(>=10): 4(16791) || Inc(>=10): 3(3793) || Inc(>=10): 2(2647) || Inc(>=10): 5(1469) || CAT-SINGLE-UNORDERED || reference: 4=16791 || SUCCESS results-notordered-logistic 
+4990_0|| CAT-SINGLE || Inc(>=10): 70(5502) || Inc(>=10): 69(21802) || Inc(>=10): 68(119) || Inc(>=10): 72(151) || Inc(>=10): 71(128) || CAT-SINGLE-UNORDERED || reference: 69=21802 || SUCCESS results-notordered-logistic 
+5001_0|| CAT-SINGLE || Inc(>=10): 3(23122) || Inc(>=10): 1(2077) || Inc(>=10): 2(383) || Inc(>=10): 5(257) || Inc(>=10): 4(199) || CAT-SINGLE-UNORDERED || reference: 3=23122 || SUCCESS results-notordered-logistic 
+5012_0|| CAT-SINGLE || Inc(>=10): 26(15730) || Inc(>=10): 25(2082) || Inc(>=10): 29(885) || Inc(>=10): 28(516) || Inc(>=10): 27(893) || CAT-SINGLE-UNORDERED || reference: 26=15730 || SUCCESS results-notordered-logistic 
+5057_0|| INTEGER || reassignments: -1=NA|-3=NA || Inc(>=10): 0(12029) || Inc(>=10): 2(4451) || Inc(>=10): 1(11005) || Inc(>=10): 7(92) || Inc(>=10): 4(682) || Inc(>=10): 3(1702) || Inc(>=10): 8(45) || Inc(>=10): 6(157) || Inc(>=10): 5(277) || Inc(>=10): 9(28) || Inc(>=10): 10(14) || Removed 12: 1<10 examples || Removed 13: 1<10 examples || Removed 11: 5<10 examples || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10 || num categories: 11 || SUCCESS results-ordered-logistic

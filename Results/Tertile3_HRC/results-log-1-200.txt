@@ -1,0 +1,21 @@
+19_0|| CAT-SINGLE || Inc(>=10): 1(61576) || Inc(>=10): 2(8808) || Inc(>=10): 3(636) || CAT-SINGLE-UNORDERED || reference: 1=61576 || SUCCESS results-notordered-logistic 
+21_0|| CAT-SINGLE || Inc(>=10): 1(109152) || Inc(>=10): 3(2121) || Inc(>=10): 4(256) || Removed 2: 5<10 examples || CAT-SINGLE-UNORDERED || reference: 1=109152 || SUCCESS results-notordered-logistic 
+23_0|| CAT-SINGLE || Inc(>=10): 0(99202) || Inc(>=10): 9(252) || Inc(>=10): 7(237) || Inc(>=10): 6(199) || CAT-SINGLE-UNORDERED || reference: 0=99202 || SUCCESS results-notordered-logistic 
+31_0|| Excluded cat-single: YES-SEX || 
+34_0|| Excluded integer: YES-AGE || 
+35_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(111649) || Removed 0: 5<10 examples || SKIP (only one value) || 
+46_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+47_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+48_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+49_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+50_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+51_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+52_0|| Excluded cat-single: YES-AGE || 
+53_0 || Variable could not be found in pheno info file. 
+54_0|| Excluded cat-single: YES-ASSESSMENT-CENTRE || 
+55_0|| CAT-SINGLE || Inc(>=10): 10(9644) || Inc(>=10): 7(9918) || Inc(>=10): 4(9743) || Inc(>=10): 12(6032) || Inc(>=10): 8(8449) || Inc(>=10): 5(11319) || Inc(>=10): 9(7840) || Inc(>=10): 11(9224) || Inc(>=10): 6(11601) || Inc(>=10): 3(11151) || Inc(>=10): 2(9143) || Inc(>=10): 1(7592) || CAT-SINGLE-UNORDERED || reference: 6=11601 || SUCCESS results-notordered-logistic 
+62_0|| CAT-SINGLE || Inc(>=10): 1(109395) || Inc(>=10): 2(2187) || CAT-SINGLE-BINARY || sample 109395/2187(111582) || SUCCESS results-logistic-binary 
+68_0|| INTEGER || Inc(>=10): 6(83288) || Inc(>=10): 7(28361) || Removed 0: 5<10 examples || sample 83288/28361(111649) || SUCCESS results-logistic-binary 
+74_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 23443, 33265, 54944 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+77_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+78_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

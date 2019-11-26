@@ -1,0 +1,114 @@
+[1] "--------------"
+[1] "4292"
+# weights:  60 (42 variable)
+initial  value 153225.729440 
+iter  10 value 57662.348546
+iter  20 value 57122.441472
+iter  30 value 56717.208566
+iter  40 value 56106.970582
+iter  50 value 55764.540940
+iter  60 value 55738.766922
+iter  70 value 55688.537602
+final  value 55687.662559 
+converged
+# weights:  56 (39 variable)
+initial  value 153225.729440 
+iter  10 value 57662.186278
+iter  20 value 57095.539822
+iter  30 value 56328.602246
+iter  40 value 55916.664627
+iter  50 value 55755.820466
+iter  60 value 55719.086849
+iter  70 value 55687.741026
+iter  70 value 55687.740876
+iter  70 value 55687.740875
+final  value 55687.740875 
+converged
+[1] "--------------"
+[1] "4293"
+# weights:  45 (28 variable)
+initial  value 121308.768915 
+iter  10 value 46818.902139
+iter  20 value 45356.832698
+iter  30 value 39517.003094
+iter  40 value 24551.471078
+iter  50 value 20073.780735
+iter  60 value 20061.954209
+iter  70 value 20061.890245
+final  value 20061.877103 
+converged
+# weights:  42 (26 variable)
+initial  value 121308.768915 
+iter  10 value 46821.604580
+iter  20 value 45708.316589
+iter  30 value 35653.871804
+iter  40 value 22690.618568
+iter  50 value 20081.380930
+iter  60 value 20062.480307
+iter  70 value 20062.383660
+final  value 20062.355850 
+converged
+[1] "--------------"
+[1] "4294"
+# weights:  45 (28 variable)
+initial  value 121444.996839 
+iter  10 value 26312.544094
+iter  20 value 21463.756490
+iter  30 value 19926.766805
+iter  40 value 19081.592908
+iter  50 value 18534.897211
+iter  60 value 18209.119615
+iter  70 value 18197.116791
+iter  80 value 18195.328074
+final  value 18190.364254 
+converged
+# weights:  42 (26 variable)
+initial  value 121444.996839 
+iter  10 value 26372.025127
+iter  20 value 21839.813645
+iter  30 value 19866.367147
+iter  40 value 19116.796154
+iter  50 value 18705.408573
+iter  60 value 18389.781900
+iter  70 value 18347.652690
+iter  80 value 18234.407236
+final  value 18191.403199 
+converged
+[1] "--------------"
+[1] "4407"
+[1] "--------------"
+[1] "4418"
+[1] "--------------"
+[1] "4429"
+[1] "--------------"
+[1] "4440"
+[1] "--------------"
+[1] "4451"
+[1] "--------------"
+[1] "4462"
+[1] "--------------"
+[1] "4501"
+[1] "--------------"
+[1] "4526"
+[1] "--------------"
+[1] "4537"
+[1] "--------------"
+[1] "4548"
+[1] "--------------"
+[1] "4559"
+[1] "--------------"
+[1] "4570"
+[1] "--------------"
+[1] "4581"
+[1] "--------------"
+[1] "4598"
+[1] "--------------"
+[1] "4609"
+[1] "--------------"
+[1] "4620"
+[1] "--------------"
+[1] "4631"
+[1] "--------------"
+[1] "4642"
+[1] "--------------"
+[1] "4653"

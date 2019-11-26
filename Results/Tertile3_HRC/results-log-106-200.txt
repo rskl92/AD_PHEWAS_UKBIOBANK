@@ -1,0 +1,20 @@
+20548_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 2 || Indicator name x20400_0_0 || [1] "ERROR: 20548_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20549_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 3 || Indicator name x20400_0_0 || [1] "ERROR: 20549_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20550_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 1 || Indicator name x20400_0_0 || [1] "ERROR: 20550_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20551_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 1 || Indicator name x20400_0_0 || [1] "ERROR: 20551_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20552_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 1 || Indicator name x20400_0_0 || [1] "ERROR: 20552_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20553_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 4 || Indicator name x20400_0_0 || [1] "ERROR: 20553_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+20554_0|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 6 || Indicator name x20400_0_0 || [1] "ERROR: 20554_0 Error in `[.data.frame`(indvarx, , indName): undefined columns selected\n"
+21000_0|| CAT-SINGLE || Inc(>=10): 1001(111656) || SKIP (only one value) || 
+21001_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+21002_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+21003_0|| Excluded integer: YES-AGE || 
+21004_2|| INTEGER || Inc(>=10): 11(129) || Inc(>=10): 3(23) || Inc(>=10): 7(88) || Inc(>=10): 9(147) || Inc(>=10): 10(148) || Inc(>=10): 14(47) || Inc(>=10): 8(111) || Inc(>=10): 6(69) || Inc(>=10): 4(33) || Inc(>=10): 13(65) || Inc(>=10): 5(60) || Inc(>=10): 12(84) || Inc(>=10): 16(11) || Inc(>=10): 15(22) || Removed 2: 8<10 examples || Removed 0: 2<10 examples || Removed 1: 6<10 examples || Removed 17: 3<10 examples || Removed 18: 2<10 examples || 3-20 values || CAT-ORD || order: 3|4|5|6|7|8|9|10|11|12|13|14|15|16 || num categories: 14 || SUCCESS results-ordered-logistic
+21021_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+21022_0|| Excluded integer: YES-AGE || 
+22000_0|| Excluded cat-single: YES-GENETIC || 
+22001_0|| Excluded cat-single: YES-GENETIC || 
+22003_0|| Excluded continuous: YES-GENETIC || 
+22004_0|| Excluded continuous: YES-GENETIC || 
+22005_0|| Excluded continuous: YES-GENETIC || 
+22006_0|| Excluded cat-single: YES-GENETIC || 

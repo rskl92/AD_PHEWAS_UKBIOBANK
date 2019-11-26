@@ -1,0 +1,3 @@
+22660_0|| CAT-SINGLE || [1] "ERROR: 22660_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"
+22661_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 17114, 34885, 32174 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+22663_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear

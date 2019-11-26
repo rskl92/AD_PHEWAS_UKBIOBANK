@@ -1,0 +1,20 @@
+5986_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5992_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3245, 12378, 5 || Combine last two bins and treat as binary || sample 3245/12383(15628) || SUCCESS results-logistic-binary 
+5993_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3198, 5948, 6482 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6014_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(15263) || Inc(>=10): 3(512) || Inc(>=10): 2(109) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6015_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(15087) || Inc(>=10): 2(217) || Inc(>=10): 3(580) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6016_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(15282) || Inc(>=10): 3(469) || Inc(>=10): 2(133) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6017_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 3(15030) || Inc(>=10): 1(559) || Inc(>=10): 2(295) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+6019_0|| CAT-SINGLE || Inc(>=10): 1(13888) || Inc(>=10): 2(1741) || Inc(>=10): 6(141) || Inc(>=10): 7(71) || CAT-SINGLE-UNORDERED || reference: 1=13888 || SUCCESS results-notordered-logistic 
+6020_0|| CAT-SINGLE || Inc(>=10): 1(14536) || Inc(>=10): 33(846) || Inc(>=10): 31(149) || Inc(>=10): 32(67) || Inc(>=10): 34(31) || CAT-SINGLE-UNORDERED || reference: 1=14536 || SUCCESS results-notordered-logistic 
+6024_0|| Excluded cat-single: YES-ACE || 
+6032_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 4485, 4176, 6967 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6033_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+6034_0|| CAT-SINGLE || Inc(>=10): 0(13993) || Inc(>=10): 1(1635) || CAT-SINGLE-BINARY || sample 13993/1635(15628) || SUCCESS results-logistic-binary 
+6038_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+6039_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3522, 8262, 3844 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+6070_0|| CAT-SINGLE || Inc(>=10): 1(13637) || Inc(>=10): 7(629) || Inc(>=10): 6(1571) || CAT-SINGLE-UNORDERED || reference: 1=13637 || SUCCESS results-notordered-logistic 
+6072_0|| CAT-SINGLE || Inc(>=10): 1(13534) || Inc(>=10): 7(666) || Inc(>=10): 6(1636) || CAT-SINGLE-UNORDERED || reference: 1=13534 || SUCCESS results-notordered-logistic 
+6074_0|| Excluded cat-single: YES-ACE || 
+6075_0|| Excluded cat-single: YES-ACE || 
+6119_0|| CAT-SINGLE || Inc(>=10): 1(41) || Inc(>=10): 3(266) || Inc(>=10): 2(47) || CAT-SINGLE-UNORDERED || CATUNORD-SKIP-500 (354) || 

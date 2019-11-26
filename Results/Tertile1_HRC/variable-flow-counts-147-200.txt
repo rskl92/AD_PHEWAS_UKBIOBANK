@@ -1,0 +1,11 @@
+name,countValue
+catMul.10,254
+catMul.binary,371
+catMul.over10,117
+catSinToCatMul,1
+cont.main,1
+notinphenofile,1
+start.catMul,1
+start.cont,1
+success.binary,117
+success.continuous,1

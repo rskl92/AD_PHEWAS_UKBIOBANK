@@ -1,0 +1,13 @@
+20148_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 5810, 808, 2293 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+20149_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+20150_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20151_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20152_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(67174) || Inc(>=10): 0(19856) || CAT-SINGLE-BINARY || sample 19856/67174(87030) || SUCCESS results-logistic-binary 
+20153_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20154_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20155_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+20156_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20157_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+20159_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+20160_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(62881) || Inc(>=10): 0(48558) || CAT-SINGLE-BINARY || sample 48558/62881(111439) || SUCCESS results-logistic-binary 
+20161_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

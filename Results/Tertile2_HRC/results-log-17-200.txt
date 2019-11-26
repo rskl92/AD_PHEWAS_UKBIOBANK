@@ -1,0 +1,18 @@
+3059_0|| Excluded cat-single: YES-ACE || 
+3062_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3063_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3064_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+3065_0|| Excluded cat-single: YES-ACE || 
+3077_0|| CAT-SINGLE || Inc(>=10): 50(88966) || Inc(>=10): 40(22095) || Inc(>=10): 30(245) || ordered || CAT-ORD || order: 30|40|50 || num categories: 3 || SUCCESS results-ordered-logistic
+3079_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(111289) || Inc(>=10): 1(287) || CAT-SINGLE-BINARY || sample 111289/287(111576) || SUCCESS results-logistic-binary 
+3081_0|| Excluded cat-single: YES-ACE || 
+3082_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(75351) || Inc(>=10): 2(66) || Inc(>=10): 3(41) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+3083_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3084_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3085_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+3088_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(102264) || Inc(>=10): 3(8893) || Inc(>=10): 2(419) || ordered || CAT-ORD || order: 0|2|1 || num categories: 3 || SUCCESS results-ordered-logistic
+3089_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(100225) || Inc(>=10): 1(2039) || CAT-SINGLE-BINARY || sample 100225/2039(102264) || SUCCESS results-logistic-binary 
+3090_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(101598) || Inc(>=10): 1(666) || CAT-SINGLE-BINARY || sample 101598/666(102264) || SUCCESS results-logistic-binary 
+3137_0|| INTEGER || Inc(>=10): 3(74311) || Inc(>=10): 2(27214) || Inc(>=10): 1(51) || 3-20 values || CAT-ORD || order: 1|2|3 || num categories: 3 || SUCCESS results-ordered-logistic
+3140_0|| CAT-SINGLE || reorder 0|2|1 || Inc(>=10): 1(61527) || Removed 2: 7<10 examples || Removed 3: 2<10 examples || SKIP (only one value) || 
+3143_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

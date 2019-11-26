@@ -1,0 +1,6 @@
+5111_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5112_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5113_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5114_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5115_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+5116_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

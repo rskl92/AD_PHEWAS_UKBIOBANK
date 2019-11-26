@@ -1,0 +1,7 @@
+name,countValue
+cont.main,3
+excluded.catSin,1
+int.continuous,2
+start.cont,1
+start.int,2
+success.continuous,3

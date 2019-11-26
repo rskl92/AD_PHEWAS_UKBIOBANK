@@ -1,0 +1,22 @@
+5507_0|| CAT-SINGLE || Inc(>=10): 2(5410) || Inc(>=10): 3(3066) || Inc(>=10): 1(1704) || ordered || CAT-ORD || order: 1|2|3 || num categories: 3 || SUCCESS results-ordered-logistic
+5518_0|| CAT-SINGLE || Inc(>=10): 2(5795) || Inc(>=10): 1(3139) || CAT-SINGLE-BINARY || sample 3139/5795(8934) || SUCCESS results-logistic-binary 
+5529_0|| CAT-SINGLE || Inc(>=10): 0(9811) || Inc(>=10): 1(475) || CAT-SINGLE-BINARY || sample 9811/475(10286) || SUCCESS results-logistic-binary 
+5540_0|| CAT-SINGLE || Inc(>=10): 0(10134) || Inc(>=10): 1(68) || Inc(>=10): 2(43) || Inc(>=10): 3(36) || CAT-SINGLE-UNORDERED || reference: 0=10134 || SUCCESS results-notordered-logistic 
+5556_0|| CAT-SINGLE || Inc(>=10): 4(5016) || Inc(>=10): 1(233) || Inc(>=10): 5(3983) || Inc(>=10): 3(47) || Inc(>=10): 2(61) || CAT-SINGLE-UNORDERED || reference: 4=5016 || SUCCESS results-notordered-logistic 
+5610_0|| CAT-SINGLE || Inc(>=10): 3(10932) || Inc(>=10): 1(721) || Inc(>=10): 2(685) || CAT-SINGLE-UNORDERED || reference: 3=10932 || SUCCESS results-notordered-logistic 
+5663_0|| CAT-SINGLE || reassignments: 12=11 || Inc(>=10): 13(999) || Inc(>=10): 11(3706) || CAT-SINGLE-BINARY || sample 3706/999(4705) || SUCCESS results-logistic-binary 
+5674_0|| CAT-SINGLE || Inc(>=10): 12(1260) || Inc(>=10): 11(3974) || CAT-SINGLE-BINARY || sample 3974/1260(5234) || SUCCESS results-logistic-binary 
+5699_0|| CAT-SINGLE || Inc(>=10): 95(4109) || Inc(>=10): 93(331) || Inc(>=10): 92(137) || Inc(>=10): 96(249) || Inc(>=10): 94(300) || CAT-SINGLE-UNORDERED || reference: 95=4109 || SUCCESS results-notordered-logistic 
+5779_0|| CAT-SINGLE || Inc(>=10): 5(2089) || Inc(>=10): 2(505) || Inc(>=10): 4(103) || Inc(>=10): 1(141) || Removed 3: 6<10 examples || CAT-SINGLE-UNORDERED || reference: 5=2089 || SUCCESS results-notordered-logistic 
+5790_0|| CAT-SINGLE || Inc(>=10): 50(256) || Inc(>=10): 47(67) || Inc(>=10): 49(152) || Inc(>=10): 48(135) || Inc(>=10): 45(398) || Inc(>=10): 46(47) || CAT-SINGLE-UNORDERED || reference: 45=398 || SUCCESS results-notordered-logistic 
+5832_0|| CAT-SINGLE || Inc(>=10): 3(5786) || Inc(>=10): 2(427) || Inc(>=10): 1(436) || CAT-SINGLE-UNORDERED || reference: 3=5786 || SUCCESS results-notordered-logistic 
+5843_0|| CAT-SINGLE || Inc(>=10): 3(8178) || Inc(>=10): 1(558) || Inc(>=10): 2(583) || CAT-SINGLE-UNORDERED || reference: 3=8178 || SUCCESS results-notordered-logistic 
+5855_0|| CAT-SINGLE || Inc(>=10): 3(2159) || Inc(>=10): 2(494) || Inc(>=10): 1(469) || CAT-SINGLE-UNORDERED || reference: 3=2159 || SUCCESS results-notordered-logistic 
+5866_0|| CAT-SINGLE || Inc(>=10): 2(110) || Inc(>=10): 1(131) || Inc(>=10): 3(78) || CAT-SINGLE-UNORDERED || CATUNORD-SKIP-500 (319) || 
+5877_0|| CAT-SINGLE || Inc(>=10): 3(323) || Inc(>=10): 2(85) || Inc(>=10): 1(106) || CAT-SINGLE-UNORDERED || reference: 3=323 || SUCCESS results-notordered-logistic 
+5890_0|| CAT-SINGLE || Inc(>=10): 3(294) || Inc(>=10): 2(53) || Inc(>=10): 1(45) || CAT-SINGLE-UNORDERED || CATUNORD-SKIP-500 (392) || 
+5901_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (445) || 
+5912_0|| CAT-SINGLE || Inc(>=10): 1(133) || Inc(>=10): 2(105) || Inc(>=10): 3(279) || CAT-SINGLE-UNORDERED || reference: 3=279 || SUCCESS results-notordered-logistic 
+5923_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (492) || 
+5934_0|| CAT-SINGLE || Inc(>=10): 1(235) || Inc(>=10): 3(251) || Inc(>=10): 2(226) || CAT-SINGLE-UNORDERED || reference: 3=251 || SUCCESS results-notordered-logistic 
+5945_0|| INTEGER || reassignments: -1=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear

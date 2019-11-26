@@ -1,0 +1,3 @@
+399_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+400_0|| INTEGER || reassignments: 0=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+401_0|| CAT-SINGLE || [1] "ERROR: 401_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"

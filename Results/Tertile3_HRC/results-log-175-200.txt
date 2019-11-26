@@ -1,0 +1,67 @@
+90054_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2388, 2405, 16199 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90055_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 5949, 15030, 13 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90056_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 6086, 14886, 20 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90057_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 6619, 14334, 39 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90058_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 6631, 14306, 55 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90059_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2649, 2654, 15689 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90060_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3651, 4574, 12767 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90061_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3611, 4598, 12783 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90062_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3282, 4442, 13268 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90063_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3092, 4115, 13785 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90064_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2983, 3941, 14068 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90065_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2840, 3754, 14398 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90066_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2685, 3618, 14689 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90067_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2562, 4166, 14264 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90068_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2495, 5311, 13186 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90069_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2526, 7933, 10533 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90070_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 4003, 16749, 240 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90071_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2098, 2101, 16793 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90072_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2128, 2133, 16731 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90073_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2143, 2144, 16705 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90074_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2126, 2129, 16737 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90075_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2103, 2118, 16771 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90076_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2071, 2079, 16842 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90077_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2011, 2020, 16961 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90078_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 1997, 2008, 16987 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90079_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 1475, 2503, 17014 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90080_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2023, 2027, 16942 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90081_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2143, 2146, 16703 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90082_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2443, 2807, 15742 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90083_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 3107, 3815, 14070 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90084_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 286, 335, 20371 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90085_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 365, 366, 20261 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90086_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 7253, 4896, 8843 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90087_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90088_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90089_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90090_0|| CONTINUOUS MAIN || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 20756, 118, 118 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+90091_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90092_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90093_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90094_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90095_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90096_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90097_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90098_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90099_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90100_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90101_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90102_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90103_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90104_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90105_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90106_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90107_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90108_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90109_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90110_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90111_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90112_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90113_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90114_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90115_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90116_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90117_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90118_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90119_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+90120_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

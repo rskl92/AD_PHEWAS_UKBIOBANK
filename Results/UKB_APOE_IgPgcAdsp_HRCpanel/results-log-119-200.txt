@@ -1,0 +1,2 @@
+22618_0|| CAT-SINGLE || [1] "ERROR: 22618_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"
+22619_0|| CAT-SINGLE || [1] "ERROR: 22619_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"

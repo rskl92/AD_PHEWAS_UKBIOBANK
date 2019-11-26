@@ -1,0 +1,4 @@
+22642_0|| INTEGER || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2051, 9400, 7025 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+22643_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22644_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+22645_0|| INTEGER || reassignments: -1=NA || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 2912, 6546, 6505 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic

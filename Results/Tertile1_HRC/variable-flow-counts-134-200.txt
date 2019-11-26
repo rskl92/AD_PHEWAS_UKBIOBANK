@@ -1,0 +1,10 @@
+name,countValue
+cont.main,1
+cont.ordcattry,66
+cont.ordcattry.binsbinary,5
+cont.ordcattry.ordcat,61
+ordCat,61
+start.cont,67
+success.binary,5
+success.continuous,1
+success.ordCat,61

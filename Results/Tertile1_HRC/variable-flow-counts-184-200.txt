@@ -1,0 +1,6 @@
+name,countValue
+catSin.case1,12
+catSin.onevalue,1
+ordCat,12
+start.catSin,13
+success.ordCat,12

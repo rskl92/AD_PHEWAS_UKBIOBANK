@@ -1,0 +1,88 @@
+[1] "--------------"
+[1] "404"
+[1] "--------------"
+[1] "670"
+# weights:  75 (56 variable)
+initial  value 179225.396491 
+iter  10 value 37606.606536
+iter  20 value 37287.528937
+iter  30 value 35803.002940
+iter  40 value 35552.956399
+iter  50 value 35367.091196
+iter  60 value 35133.614658
+iter  70 value 35076.367667
+iter  80 value 35037.385031
+iter  90 value 35026.123650
+iter 100 value 34979.728855
+iter 110 value 34974.118780
+final  value 34974.115886 
+converged
+# weights:  70 (52 variable)
+initial  value 179225.396491 
+iter  10 value 37606.768480
+iter  20 value 36771.233953
+iter  30 value 35708.755612
+iter  40 value 35421.231259
+iter  50 value 35178.387112
+iter  60 value 35109.526422
+iter  70 value 35051.557470
+iter  80 value 35026.604198
+iter  90 value 35007.007938
+iter 100 value 34977.063065
+final  value 34976.856060 
+converged
+[1] "--------------"
+[1] "680"
+# weights:  90 (70 variable)
+initial  value 197303.177473 
+iter  10 value 77195.834313
+iter  20 value 76917.161763
+iter  30 value 76588.807218
+iter  40 value 75683.831901
+iter  50 value 75384.210220
+iter  60 value 74712.621823
+iter  70 value 74037.138235
+iter  80 value 72529.311066
+iter  90 value 72342.558741
+iter 100 value 72340.739083
+final  value 72340.729349 
+converged
+# weights:  84 (65 variable)
+initial  value 197303.177473 
+iter  10 value 77196.915162
+iter  20 value 76920.250147
+iter  30 value 76656.998236
+iter  40 value 75535.811740
+iter  50 value 75151.432572
+iter  60 value 74446.634671
+iter  70 value 73366.923911
+iter  80 value 72410.771100
+iter  90 value 72343.334508
+final  value 72343.248536 
+converged
+[1] "--------------"
+[1] "699"
+[1] "--------------"
+[1] "709"
+[1] "--------------"
+[1] "728"
+[1] "--------------"
+[1] "738"
+[1] "--------------"
+[1] "757"
+[1] "--------------"
+[1] "767"
+[1] "--------------"
+[1] "777"
+[1] "--------------"
+[1] "796"
+[1] "--------------"
+[1] "806"
+[1] "--------------"
+[1] "816"
+[1] "--------------"
+[1] "826"
+[1] "--------------"
+[1] "845"
+[1] "--------------"
+[1] "864"

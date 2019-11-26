@@ -1,0 +1,9 @@
+name,countValue
+cont.main,1
+cont.ordcattry,2
+cont.ordcattry.ordcat,2
+int.continuous,3
+ordCat,2
+start.int,3
+success.continuous,1
+success.ordCat,2

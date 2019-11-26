@@ -1,0 +1,72 @@
+[1] "--------------"
+[1] "20119"
+# weights:  75 (56 variable)
+initial  value 3495.699146 
+iter  10 value 1296.960233
+iter  20 value 1023.264544
+iter  30 value 835.479031
+iter  40 value 747.466321
+iter  50 value 638.298153
+iter  60 value 540.370487
+iter  70 value 472.666687
+iter  80 value 451.763611
+iter  90 value 441.399354
+iter 100 value 438.098469
+final  value 438.097058 
+converged
+# weights:  70 (52 variable)
+initial  value 3495.699146 
+iter  10 value 1317.061552
+iter  20 value 1015.619508
+iter  30 value 845.205436
+iter  40 value 766.960169
+iter  50 value 604.418960
+iter  60 value 500.250101
+iter  70 value 462.280926
+iter  80 value 446.099004
+iter  90 value 441.354498
+iter 100 value 441.231053
+iter 100 value 441.231050
+iter 100 value 441.231050
+final  value 441.231050 
+converged
+[1] "--------------"
+[1] "20121"
+[1] "--------------"
+[1] "20122"
+[1] "--------------"
+[1] "20126"
+# weights:  90 (70 variable)
+initial  value 144139.882261 
+iter  10 value 73986.259193
+iter  20 value 73559.923221
+iter  30 value 73523.690918
+iter  40 value 73513.137127
+iter  50 value 73480.656845
+iter  60 value 73283.520154
+iter  70 value 73179.287130
+final  value 73144.179467 
+converged
+# weights:  84 (65 variable)
+initial  value 144139.882261 
+iter  10 value 73986.913622
+iter  20 value 73560.983864
+iter  30 value 73524.701828
+iter  40 value 73513.117926
+iter  50 value 73460.485763
+iter  60 value 73257.597417
+iter  70 value 73145.895266
+final  value 73145.204954 
+converged
+[1] "--------------"
+[1] "20127"
+[1] "--------------"
+[1] "20128"
+[1] "--------------"
+[1] "20131"
+[1] "--------------"
+[1] "20132"
+[1] "--------------"
+[1] "20133"
+[1] "--------------"
+[1] "20147"

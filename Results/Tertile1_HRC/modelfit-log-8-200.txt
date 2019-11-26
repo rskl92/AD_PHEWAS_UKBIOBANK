@@ -1,0 +1,101 @@
+[1] "--------------"
+[1] "404"
+[1] "--------------"
+[1] "670"
+# weights:  75 (56 variable)
+initial  value 179321.962766 
+iter  10 value 48268.825556
+iter  20 value 38221.699648
+iter  30 value 36593.598713
+iter  40 value 35955.524129
+iter  50 value 35723.017230
+iter  60 value 35576.586295
+iter  70 value 35485.610100
+iter  80 value 35422.435134
+iter  90 value 35355.212252
+iter 100 value 35335.749612
+iter 110 value 35244.220376
+iter 120 value 35192.083495
+iter 130 value 35135.839811
+iter 140 value 35120.816847
+iter 150 value 35061.297876
+iter 160 value 35042.175789
+iter 170 value 35025.916835
+iter 180 value 35015.132727
+final  value 35014.942438 
+converged
+# weights:  70 (52 variable)
+initial  value 179321.962766 
+iter  10 value 48272.815943
+iter  20 value 41390.626276
+iter  30 value 37575.512498
+iter  40 value 36235.579013
+iter  50 value 35716.999833
+iter  60 value 35554.553719
+iter  70 value 35466.719215
+iter  80 value 35427.954877
+iter  90 value 35369.826095
+iter 100 value 35340.365865
+iter 110 value 35280.422756
+iter 120 value 35253.659686
+iter 130 value 35238.106430
+iter 140 value 35209.156497
+iter 150 value 35186.158875
+iter 160 value 35116.888468
+iter 170 value 35038.261060
+iter 180 value 35015.432490
+final  value 35015.429385 
+converged
+[1] "--------------"
+[1] "680"
+# weights:  90 (70 variable)
+initial  value 197629.277696 
+iter  10 value 129366.386571
+iter  20 value 129081.761144
+iter  30 value 127383.580972
+iter  40 value 126746.556038
+iter  50 value 124542.445372
+iter  60 value 115077.309199
+iter  70 value 108306.295455
+iter  80 value 103046.096299
+iter  90 value 103035.691724
+final  value 103035.677206 
+converged
+# weights:  84 (65 variable)
+initial  value 197629.277696 
+iter  10 value 129366.817667
+iter  20 value 129082.380846
+iter  30 value 127376.379999
+iter  40 value 126737.741329
+iter  50 value 124559.214696
+iter  60 value 108323.598013
+iter  70 value 103323.659907
+iter  80 value 103038.108968
+final  value 103037.649866 
+converged
+[1] "--------------"
+[1] "699"
+[1] "--------------"
+[1] "709"
+[1] "--------------"
+[1] "728"
+[1] "--------------"
+[1] "738"
+[1] "--------------"
+[1] "757"
+[1] "--------------"
+[1] "767"
+[1] "--------------"
+[1] "777"
+[1] "--------------"
+[1] "796"
+[1] "--------------"
+[1] "806"
+[1] "--------------"
+[1] "816"
+[1] "--------------"
+[1] "826"
+[1] "--------------"
+[1] "845"
+[1] "--------------"
+[1] "864"

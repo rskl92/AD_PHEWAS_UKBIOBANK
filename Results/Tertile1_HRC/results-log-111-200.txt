@@ -1,0 +1,2 @@
+22604_0|| CAT-SINGLE || [1] "ERROR: 22604_0 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"
+22605_0|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear

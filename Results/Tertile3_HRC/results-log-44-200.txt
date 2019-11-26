@@ -1,0 +1,1 @@
+5959_0|| CAT-SINGLE || Inc(>=10): 1(547) || Inc(>=10): 0(280) || CAT-SINGLE-BINARY || sample 280/547(827) || SUCCESS results-logistic-binary 

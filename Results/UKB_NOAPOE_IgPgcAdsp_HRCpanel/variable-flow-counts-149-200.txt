@@ -1,0 +1,10 @@
+name,countValue
+catMul.10,194
+catMul.binary,279
+catMul.over10,85
+catSin.case2,1
+catSinToCatMul,2
+start.catMul,2
+start.catSin,1
+success.binary,85
+success.unordCat,1

@@ -1,0 +1,51 @@
+22157_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (47) || 
+22158_0|| INTEGER || Removed 54: 1<10 examples || SKIP (number of levels: 0)
+22159_0|| INTEGER || SKIP (number of levels: 0)
+22160_0|| INTEGER || Removed 18: 1<10 examples || Removed 53: 1<10 examples || Removed 49: 2<10 examples || Removed 46: 1<10 examples || Removed 26: 2<10 examples || Removed 50: 1<10 examples || Removed 57: 2<10 examples || Removed 58: 1<10 examples || Removed 60: 1<10 examples || Removed 51: 1<10 examples || Removed 37: 1<10 examples || Removed 56: 1<10 examples || Removed 54: 2<10 examples || Removed 52: 1<10 examples || SKIP (number of levels: 0)
+22161_0|| INTEGER || Removed 55: 1<10 examples || SKIP (number of levels: 0)
+22166_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(4241) || Inc(>=10): 1(3673) || CAT-SINGLE-BINARY || sample 4241/3673(7914) || SUCCESS results-logistic-binary 
+22167_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(2493) || Inc(>=10): 0(1906) || CAT-SINGLE-BINARY || sample 1906/2493(4399) || SUCCESS results-logistic-binary 
+22168_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(27) || Inc(>=10): 1(15) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (42) || 
+22169_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(241) || Inc(>=10): 1(40) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (281) || 
+22170_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 1(97) || Inc(>=10): 0(59) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (156) || 
+22171_0|| CAT-SINGLE || reassignments: 9=NA || SKIP (only one value) || 
+22172_0|| CAT-SINGLE || reassignments: 9=NA || Removed 0: 8<10 examples || Removed 1: 4<10 examples || SKIP (only one value) || 
+22173_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(93) || Inc(>=10): 1(17) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (110) || 
+22174_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(87) || Inc(>=10): 1(47) || CAT-SINGLE-BINARY || BINARY-LOGISTIC-SKIP-500 (134) || 
+22175_0|| CAT-SINGLE || reassignments: 9=NA || Removed 1: 4<10 examples || Removed 0: 6<10 examples || SKIP (only one value) || 
+22176_0|| CAT-SINGLE || reassignments: 9=NA || Removed 1: 6<10 examples || Removed 0: 2<10 examples || SKIP (only one value) || 
+22177_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(46) || Removed 1: 1<10 examples || SKIP (only one value) || 
+22178_0|| CAT-SINGLE || reassignments: 9=NA || Removed 1: 1<10 examples || SKIP (only one value) || 
+22179_0|| CAT-SINGLE || reassignments: 9=NA || SKIP (only one value) || 
+22180_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(12) || Removed 1: 6<10 examples || SKIP (only one value) || 
+22181_0|| CAT-SINGLE || reassignments: 9=NA || Removed 1: 1<10 examples || SKIP (only one value) || 
+22200_0|| Excluded integer: YES-AGE || 
+22403_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22404_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22405_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22406_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22407_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22408_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22409_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22410_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22411_2|| CAT-SINGLE || Default related field: x12224_0_0 || [1] "ERROR: 22411_2 Error in `[.data.frame`(indicatorFields, , indName): undefined columns selected\n"
+22412_2|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 3 || [1] "ERROR: 22412_2 Error: Categorical multiples variables need a value for CAT_MULT_INDICATOR_FIELDS\n"
+22413_2|| CAT-MULTIPLE ||  CAT-MUL-BINARY-VAR 0 || [1] "ERROR: 22413_2 Error: Categorical multiples variables need a value for CAT_MULT_INDICATOR_FIELDS\n"
+22414_2|| CAT-SINGLE || [1] "ERROR: 22414_2 Error in testCategoricalSingle(currentVarShort, \"CAT-SIN\", thisdata): More than one column for categorical single\n"
+22420_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22421_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22422_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22423_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22424_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22425_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22426_2|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22427_2|| CONTINUOUS MAIN || CONTINUOUS || IRNT || SUCCESS results-linear
+22501_0|| INTEGER || reassignments: -1=NA|-2=NA|-3=NA || CONTINUOUS || IRNT || SUCCESS results-linear
+22502_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(26237) || Inc(>=10): 1(3280) || CAT-SINGLE-BINARY || sample 26237/3280(29517) || SUCCESS results-logistic-binary 
+22503_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22504_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(27576) || Inc(>=10): 1(1941) || CAT-SINGLE-BINARY || sample 27576/1941(29517) || SUCCESS results-logistic-binary 
+22505_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22506_0|| CAT-SINGLE || Inc(>=10): 114(19743) || Inc(>=10): 113(8159) || Inc(>=10): 111(869) || Inc(>=10): 112(581) || CAT-SINGLE-UNORDERED || reference: 114=19743 || SUCCESS results-notordered-logistic 
+22507_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22508_0|| INTEGER || reassignments: 0=NA|-1001=NA|-818=NA || CONTINUOUS || >20% IN ONE CATEGORY || cat N: 198, 212, 401 || CAT-ORD || order: 0|1|2 || num categories: 3 || SUCCESS results-ordered-logistic
+22599_0|| INTEGER || Inc(>=10): 3(5645) || Inc(>=10): 1(5456) || Inc(>=10): 4(4426) || Inc(>=10): 6(1854) || Inc(>=10): 7(1129) || Inc(>=10): 5(3124) || Inc(>=10): 2(5554) || Inc(>=10): 9(329) || Inc(>=10): 13(34) || Inc(>=10): 10(196) || Inc(>=10): 8(621) || Inc(>=10): 0(125) || Inc(>=10): 12(47) || Inc(>=10): 11(88) || Inc(>=10): 14(11) || Removed 16: 3<10 examples || Removed 17: 3<10 examples || Removed 15: 6<10 examples || 3-20 values || CAT-ORD || order: 0|1|2|3|4|5|6|7|8|9|10|11|12|13|14 || num categories: 15 || SUCCESS results-ordered-logistic

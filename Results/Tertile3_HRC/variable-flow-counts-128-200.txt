@@ -1,0 +1,7 @@
+name,countValue
+cont.main,48
+cont.main.500,3
+start.cont,48
+start.exposure.cont,20
+success.continuous,45
+success.exposure.continuous,20

@@ -1,0 +1,38 @@
+22009_0|| Excluded continuous: YES-GENETIC || 
+22010_0|| Excluded cat-single: YES-GENETIC || 
+22011_0|| Excluded integer: YES-GENETIC || 
+22012_0|| Excluded continuous: YES-GENETIC || 
+22013_0|| Excluded continuous: YES-GENETIC || 
+22018_0|| Excluded cat-single: YES-GENETIC || 
+22019_0|| Excluded cat-single: YES-GENETIC || 
+22021_0|| Excluded cat-single: YES-GENETIC || 
+22027_0|| Excluded cat-single: YES-GENETIC || 
+22051_0|| Excluded cat-single: YES-GENETIC || 
+22052_0|| Excluded cat-single: YES-GENETIC || 
+22126_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(19670) || Inc(>=10): 1(4387) || CAT-SINGLE-BINARY || sample 19670/4387(24057) || SUCCESS results-logistic-binary 
+22127_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(21537) || Inc(>=10): 1(2520) || CAT-SINGLE-BINARY || sample 21537/2520(24057) || SUCCESS results-logistic-binary 
+22128_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23941) || Inc(>=10): 1(116) || CAT-SINGLE-BINARY || sample 23941/116(24057) || SUCCESS results-logistic-binary 
+22129_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23744) || Inc(>=10): 1(313) || CAT-SINGLE-BINARY || sample 23744/313(24057) || SUCCESS results-logistic-binary 
+22130_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23445) || Inc(>=10): 1(612) || CAT-SINGLE-BINARY || sample 23445/612(24057) || SUCCESS results-logistic-binary 
+22131_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24056) || Removed 1: 1<10 examples || SKIP (only one value) || 
+22132_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24045) || Inc(>=10): 1(12) || CAT-SINGLE-BINARY || sample 24045/12(24057) || SUCCESS results-logistic-binary 
+22133_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23954) || Inc(>=10): 1(103) || CAT-SINGLE-BINARY || sample 23954/103(24057) || SUCCESS results-logistic-binary 
+22134_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23728) || Inc(>=10): 1(329) || CAT-SINGLE-BINARY || sample 23728/329(24057) || SUCCESS results-logistic-binary 
+22135_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24012) || Inc(>=10): 1(45) || CAT-SINGLE-BINARY || sample 24012/45(24057) || SUCCESS results-logistic-binary 
+22136_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24042) || Inc(>=10): 1(15) || CAT-SINGLE-BINARY || sample 24042/15(24057) || SUCCESS results-logistic-binary 
+22137_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(23815) || Inc(>=10): 1(242) || CAT-SINGLE-BINARY || sample 23815/242(24057) || SUCCESS results-logistic-binary 
+22138_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24056) || Removed 1: 1<10 examples || SKIP (only one value) || 
+22139_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24016) || Inc(>=10): 1(41) || CAT-SINGLE-BINARY || sample 24016/41(24057) || SUCCESS results-logistic-binary 
+22140_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24016) || Inc(>=10): 1(41) || CAT-SINGLE-BINARY || sample 24016/41(24057) || SUCCESS results-logistic-binary 
+22141_0|| CAT-SINGLE || reassignments: 9=NA || Inc(>=10): 0(24055) || Removed 1: 2<10 examples || SKIP (only one value) || 
+22146_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22147_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22148_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (116) || 
+22149_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (313) || 
+22150_0|| INTEGER || CONTINUOUS || IRNT || SUCCESS results-linear
+22151_0|| INTEGER || Removed 50: 1<10 examples || SKIP (number of levels: 0)
+22152_0|| INTEGER || Removed 70: 1<10 examples || Removed 24: 1<10 examples || Removed 42: 1<10 examples || Removed 52: 1<10 examples || Removed 65: 1<10 examples || Removed 69: 1<10 examples || Removed 45: 1<10 examples || Removed 64: 1<10 examples || Removed 60: 1<10 examples || Removed 41: 1<10 examples || Removed 54: 1<10 examples || Removed 10: 1<10 examples || SKIP (number of levels: 0)
+22153_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (103) || 
+22154_0|| INTEGER || CONTINUOUS || IRNT || CONTINUOUS-SKIP-500 (329) || 
+22155_0|| INTEGER || Removed 69: 7<10 examples || Removed 73: 7<10 examples || Removed 68: 4<10 examples || Removed 72: 4<10 examples || Removed 75: 2<10 examples || Removed 70: 4<10 examples || Removed 71: 2<10 examples || Removed 65: 2<10 examples || Removed 67: 4<10 examples || Removed 44: 1<10 examples || Removed 60: 3<10 examples || Removed 74: 3<10 examples || Removed 53: 1<10 examples || Removed 57: 1<10 examples || SKIP (number of levels: 0)
+22156_0|| INTEGER || Removed 74: 1<10 examples || Removed 50: 1<10 examples || Removed 65: 1<10 examples || Removed 55: 2<10 examples || Removed 69: 3<10 examples || Removed 42: 1<10 examples || Removed 64: 1<10 examples || Removed 72: 3<10 examples || Removed 53: 1<10 examples || Removed 60: 1<10 examples || SKIP (number of levels: 0)

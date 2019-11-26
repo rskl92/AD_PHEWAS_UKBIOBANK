@@ -1,0 +1,112 @@
+[1] "--------------"
+[1] "4292"
+# weights:  45 (28 variable)
+initial  value 38319.596629 
+iter  10 value 15868.049496
+iter  20 value 15744.290558
+iter  30 value 14604.686225
+iter  40 value 14175.264354
+iter  50 value 14172.239385
+final  value 14172.221684 
+converged
+# weights:  42 (26 variable)
+initial  value 38319.596629 
+iter  10 value 15868.062949
+iter  20 value 15744.231679
+iter  30 value 14271.337579
+iter  40 value 14173.097622
+iter  50 value 14172.398477
+final  value 14172.389350 
+converged
+[1] "--------------"
+[1] "4293"
+# weights:  45 (28 variable)
+initial  value 38306.413281 
+iter  10 value 9822.815732
+iter  20 value 9565.252832
+iter  30 value 8244.853033
+iter  40 value 5001.829700
+iter  50 value 4201.397083
+iter  60 value 4196.693220
+iter  70 value 4196.635297
+iter  80 value 4196.627511
+final  value 4196.626795 
+converged
+# weights:  42 (26 variable)
+initial  value 38306.413281 
+iter  10 value 9827.489360
+iter  20 value 9500.617379
+iter  30 value 7850.971405
+iter  40 value 4846.611333
+iter  50 value 4206.095181
+iter  60 value 4197.434213
+iter  70 value 4197.168715
+iter  80 value 4196.936657
+final  value 4196.933062 
+converged
+[1] "--------------"
+[1] "4294"
+# weights:  45 (28 variable)
+initial  value 38327.286915 
+iter  10 value 7091.693737
+iter  20 value 4600.657893
+iter  30 value 4062.297613
+iter  40 value 4010.049705
+iter  50 value 3972.388392
+iter  60 value 3906.795501
+iter  70 value 3903.832984
+iter  80 value 3898.046812
+iter  90 value 3828.007738
+final  value 3824.004789 
+converged
+# weights:  42 (26 variable)
+initial  value 38327.286915 
+iter  10 value 7094.528114
+iter  20 value 4527.296562
+iter  30 value 4036.534180
+iter  40 value 3973.783835
+iter  50 value 3923.023524
+iter  60 value 3876.663353
+iter  70 value 3866.656901
+iter  80 value 3850.249601
+iter  90 value 3824.359678
+final  value 3824.353494 
+converged
+[1] "--------------"
+[1] "4407"
+[1] "--------------"
+[1] "4418"
+[1] "--------------"
+[1] "4429"
+[1] "--------------"
+[1] "4440"
+[1] "--------------"
+[1] "4451"
+[1] "--------------"
+[1] "4462"
+[1] "--------------"
+[1] "4501"
+[1] "--------------"
+[1] "4526"
+[1] "--------------"
+[1] "4537"
+[1] "--------------"
+[1] "4548"
+[1] "--------------"
+[1] "4559"
+[1] "--------------"
+[1] "4570"
+[1] "--------------"
+[1] "4581"
+[1] "--------------"
+[1] "4598"
+[1] "--------------"
+[1] "4609"
+[1] "--------------"
+[1] "4620"
+[1] "--------------"
+[1] "4631"
+[1] "--------------"
+[1] "4642"
+[1] "--------------"
+[1] "4653"
