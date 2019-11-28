@@ -7,7 +7,7 @@ module add languages/R-3.3.1-ATLAS
 
 date
 
-export RESULTS="${HOME}/ukb_ad_phewas/Results"
+export Results="${HOME}/ukb_ad_phewas/Results"
 PHESANT="${HOME}/PHESANT-master"
 codeDir="${PHESANT}/WAS/"
 varListDir="${PHESANT}/variable-info/"
@@ -25,7 +25,7 @@ np=200
 # confounders
 confFile="${PROJECT_DATA}/UKB_Phenotype/data.21753-phesant_header-confounders.csv"
 
-resDir="${RESULTS}/Tertile2_HRC/"
+resDir="${Results}/Tertile2_HRC/"
 
 # run PHESANT
 cd $codeDir
