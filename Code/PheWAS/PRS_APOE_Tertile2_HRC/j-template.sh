@@ -7,7 +7,7 @@ module add languages/R-3.3.1-ATLAS
 
 date
 
-export Results="${HOME}/ukb_ad_phewas/Results"
+export RESULTS="${HOME}/ukb_ad_phewas/Results"
 PHESANT="${HOME}/PHESANT-master"
 codeDir="${PHESANT}/WAS/"
 varListDir="${PHESANT}/variable-info/"
