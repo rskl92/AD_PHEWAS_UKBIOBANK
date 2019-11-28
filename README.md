@@ -12,6 +12,7 @@ The polygenic risk score for Alzheimer's will be used as the exposure in the phe
 ## Phenotype data formatting
 This script renames the phenotype to the format in phenotype file column header as required by the PHESANT package. These commands add an 'x' to the beginning of each phenotype 
 name, and replace '.' and '-' characters with '_' in the column headers of the phenotype file. 
+
 ```bash
 datadir="${PROJECT_DATA}/phenotypes/derived/" 
 origdir="${UKB_PHENODATA}/_latest/UKBIOBANK_Phenotypes_App_16729/data/" head -n 1 ${origdir}data.21753.csv | sed 's/,"/,"x/g' | sed 's/-/_/g' | sed 's/\./_/g' > 
@@ -25,8 +26,11 @@ We do not present results for low prevalence of trait/disease, if it it is Alzhe
 ## Analysis steps
 There are 5 main steps: 
 1.Meta-analysis of IGAP, PGC, and ADSP
+
 2.Data pre-processing and constructing a polygenic risk score for Alzheimer's disease
+
 3.Generating confounder files to use as covariates in PHEWAS
+
 4.Mendelian Randomization
 
     
